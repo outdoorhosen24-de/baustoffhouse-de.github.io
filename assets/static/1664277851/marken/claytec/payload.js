@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/claytec", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/claytec-lehm-oberputz-fein-06-25-kg-claytec-3554821-1.jpg":"\u002Fassets\u002Fimages\u002Fclaytec-lehm-oberputz-fein-06-25-kg-claytec-3554821-1.webp"}}],fetch:{},mutations:void 0});

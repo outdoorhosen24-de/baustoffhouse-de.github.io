@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/marken/pro-bau-tec", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sackkarre-basis-150-kg-traglast-mit-pu-raedern-pro-bau-tec-4614418-1.jpg":"\u002Fassets\u002Fimages\u002Fsackkarre-basis-150-kg-traglast-mit-pu-raedern-pro-bau-tec-4614418-1.webp"}}],fetch:{},mutations:void 0});

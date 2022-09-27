@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategorie/vollwarmeschutz-systeme", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/sakret-wdvs-klebe-und-armierungsspachtel-grau-25-kg-sakret-8852816-1.jpg":"\u002Fassets\u002Fimages\u002Fsakret-wdvs-klebe-und-armierungsspachtel-grau-25-kg-sakret-8852816-1.webp"}}],fetch:{},mutations:void 0});
