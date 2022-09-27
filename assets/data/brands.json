@@ -1,17 +1,10 @@
 [
     {
-        "key": "tesa",
-        "name": "Tesa",
-        "slug": "tesa",
-        "productCategory": "Tesa",
-        "localThumb": "/assets/images/hersteller/tesa.webp"
-    },
-    {
-        "key": "cocoon",
-        "name": "Cocoon",
-        "slug": "cocoon",
-        "productCategory": "Cocoon",
-        "localThumb": "/assets/images/hersteller/cocoon.webp"
+        "key": "knauf",
+        "name": "Knauf",
+        "slug": "knauf",
+        "productCategory": "Knauf",
+        "localThumb": "/assets/images/hersteller/knauf.webp"
     },
     {
         "key": "sonstige",
@@ -21,39 +14,67 @@
         "localThumb": "/assets/images/hersteller/sonstige.webp"
     },
     {
-        "key": "gardinia",
-        "name": "Gardinia",
-        "slug": "gardinia",
-        "productCategory": "Gardinia",
-        "localThumb": "/assets/images/hersteller/gardinia.webp"
+        "key": "pci",
+        "name": "PCI",
+        "slug": "pci",
+        "productCategory": "PCI",
+        "localThumb": "/assets/images/hersteller/pci.webp"
     },
     {
-        "key": "obi",
-        "name": "OBI",
-        "slug": "obi",
-        "productCategory": "OBI",
-        "localThumb": "/assets/images/hersteller/obi.webp"
+        "key": "lux-tools",
+        "name": "LUX-TOOLS",
+        "slug": "lux-tools",
+        "productCategory": "LUX-TOOLS",
+        "localThumb": "/assets/images/hersteller/lux-tools.webp"
     },
     {
-        "key": "moondream",
-        "name": "Moondream",
-        "slug": "moondream",
-        "productCategory": "Moondream",
-        "localThumb": "/assets/images/hersteller/moondream.webp"
+        "key": "fermacell",
+        "name": "Fermacell",
+        "slug": "fermacell",
+        "productCategory": "Fermacell",
+        "localThumb": "/assets/images/hersteller/fermacell.webp"
     },
     {
-        "key": "mydeco",
-        "name": "mydeco",
-        "slug": "mydeco",
-        "productCategory": "mydeco",
-        "localThumb": "/assets/images/hersteller/mydeco.webp"
+        "key": "sakret",
+        "name": "Sakret",
+        "slug": "sakret",
+        "productCategory": "Sakret",
+        "localThumb": "/assets/images/hersteller/sakret.webp"
     },
     {
-        "key": "thermacell",
-        "name": "Thermacell",
-        "slug": "thermacell",
-        "productCategory": "Thermacell",
-        "localThumb": "/assets/images/hersteller/thermacell.webp"
+        "key": "quick mix",
+        "name": "Quick Mix",
+        "slug": "quick-mix",
+        "productCategory": "Quick Mix",
+        "localThumb": "/assets/images/hersteller/quick-mix.webp"
+    },
+    {
+        "key": "claytec",
+        "name": "Claytec",
+        "slug": "claytec",
+        "productCategory": "Claytec",
+        "localThumb": "/assets/images/hersteller/claytec.webp"
+    },
+    {
+        "key": "ytong",
+        "name": "Ytong",
+        "slug": "ytong",
+        "productCategory": "Ytong",
+        "localThumb": "/assets/images/hersteller/ytong.webp"
+    },
+    {
+        "key": "soudal",
+        "name": "Soudal",
+        "slug": "soudal",
+        "productCategory": "Soudal",
+        "localThumb": "/assets/images/hersteller/soudal.webp"
+    },
+    {
+        "key": "catnic",
+        "name": "Catnic",
+        "slug": "catnic",
+        "productCategory": "Catnic",
+        "localThumb": "/assets/images/hersteller/catnic.webp"
     },
     {
         "key": "cmi",
@@ -63,6 +84,41 @@
         "localThumb": "/assets/images/hersteller/cmi.webp"
     },
     {
+        "key": "marley",
+        "name": "Marley",
+        "slug": "marley",
+        "productCategory": "Marley",
+        "localThumb": "/assets/images/hersteller/marley.webp"
+    },
+    {
+        "key": "dansand",
+        "name": "Dansand",
+        "slug": "dansand",
+        "productCategory": "Dansand",
+        "localThumb": "/assets/images/hersteller/dansand.webp"
+    },
+    {
+        "key": "mem",
+        "name": "MEM",
+        "slug": "mem",
+        "productCategory": "MEM",
+        "localThumb": "/assets/images/hersteller/mem.webp"
+    },
+    {
+        "key": "ultrament",
+        "name": "Ultrament",
+        "slug": "ultrament",
+        "productCategory": "Ultrament",
+        "localThumb": "/assets/images/hersteller/ultrament.webp"
+    },
+    {
+        "key": "gutta",
+        "name": "Gutta",
+        "slug": "gutta",
+        "productCategory": "Gutta",
+        "localThumb": "/assets/images/hersteller/gutta.webp"
+    },
+    {
         "key": "guttagliss",
         "name": "guttagliss",
         "slug": "guttagliss",
@@ -70,17 +126,143 @@
         "localThumb": "/assets/images/hersteller/guttagliss.webp"
     },
     {
-        "key": "windhager",
-        "name": "Windhager",
-        "slug": "windhager",
-        "productCategory": "Windhager",
-        "localThumb": "/assets/images/hersteller/windhager.webp"
+        "key": "hymer",
+        "name": "Hymer",
+        "slug": "hymer",
+        "productCategory": "Hymer",
+        "localThumb": "/assets/images/hersteller/hymer.webp"
     },
     {
-        "key": "velux",
-        "name": "Velux",
-        "slug": "velux",
-        "productCategory": "Velux",
-        "localThumb": "/assets/images/hersteller/velux.webp"
+        "key": "sarei",
+        "name": "Sarei",
+        "slug": "sarei",
+        "productCategory": "Sarei",
+        "localThumb": "/assets/images/hersteller/sarei.webp"
+    },
+    {
+        "key": "rockwool",
+        "name": "Rockwool",
+        "slug": "rockwool",
+        "productCategory": "Rockwool",
+        "localThumb": "/assets/images/hersteller/rockwool.webp"
+    },
+    {
+        "key": "aco",
+        "name": "ACO",
+        "slug": "aco",
+        "productCategory": "ACO",
+        "localThumb": "/assets/images/hersteller/aco.webp"
+    },
+    {
+        "key": "ursa home",
+        "name": "Ursa Home",
+        "slug": "ursa-home",
+        "productCategory": "Ursa Home",
+        "localThumb": "/assets/images/hersteller/ursa-home.webp"
+    },
+    {
+        "key": "alpe",
+        "name": "Alpe",
+        "slug": "alpe",
+        "productCategory": "Alpe",
+        "localThumb": "/assets/images/hersteller/alpe.webp"
+    },
+    {
+        "key": "scherf",
+        "name": "Scherf",
+        "slug": "scherf",
+        "productCategory": "Scherf",
+        "localThumb": "/assets/images/hersteller/scherf.webp"
+    },
+    {
+        "key": "ehl",
+        "name": "EHL",
+        "slug": "ehl",
+        "productCategory": "EHL",
+        "localThumb": "/assets/images/hersteller/ehl.webp"
+    },
+    {
+        "key": "qboard",
+        "name": "Qboard",
+        "slug": "qboard",
+        "productCategory": "Qboard",
+        "localThumb": "/assets/images/hersteller/qboard.webp"
+    },
+    {
+        "key": "rigips",
+        "name": "Rigips",
+        "slug": "rigips",
+        "productCategory": "Rigips",
+        "localThumb": "/assets/images/hersteller/rigips.webp"
+    },
+    {
+        "key": "haemmerlin",
+        "name": "Haemmerlin",
+        "slug": "haemmerlin",
+        "productCategory": "Haemmerlin",
+        "localThumb": "/assets/images/hersteller/haemmerlin.webp"
+    },
+    {
+        "key": "saint-gobain weber",
+        "name": "Saint-Gobain Weber",
+        "slug": "saint-gobain-weber",
+        "productCategory": "Saint-Gobain Weber",
+        "localThumb": "/assets/images/hersteller/saint-gobain-weber.webp"
+    },
+    {
+        "key": "pro-bau-tec",
+        "name": "pro-bau-tec",
+        "slug": "pro-bau-tec",
+        "productCategory": "pro-bau-tec",
+        "localThumb": "/assets/images/hersteller/pro-bau-tec.webp"
+    },
+    {
+        "key": "silka",
+        "name": "Silka",
+        "slug": "silka",
+        "productCategory": "Silka",
+        "localThumb": "/assets/images/hersteller/silka.webp"
+    },
+    {
+        "key": "weckman",
+        "name": "Weckman",
+        "slug": "weckman",
+        "productCategory": "Weckman",
+        "localThumb": "/assets/images/hersteller/weckman.webp"
+    },
+    {
+        "key": "hagalith",
+        "name": "Hagalith",
+        "slug": "hagalith",
+        "productCategory": "Hagalith",
+        "localThumb": "/assets/images/hersteller/hagalith.webp"
+    },
+    {
+        "key": "fuchs design",
+        "name": "Fuchs Design",
+        "slug": "fuchs-design",
+        "productCategory": "Fuchs Design",
+        "localThumb": "/assets/images/hersteller/fuchs-design.webp"
+    },
+    {
+        "key": "christoph",
+        "name": "Christoph",
+        "slug": "christoph",
+        "productCategory": "Christoph",
+        "localThumb": "/assets/images/hersteller/christoph.webp"
+    },
+    {
+        "key": "lugato",
+        "name": "Lugato",
+        "slug": "lugato",
+        "productCategory": "Lugato",
+        "localThumb": "/assets/images/hersteller/lugato.webp"
+    },
+    {
+        "key": "veroboard® rapid",
+        "name": "VeroBoard® Rapid",
+        "slug": "veroboard-r-rapid",
+        "productCategory": "VeroBoard® Rapid",
+        "localThumb": "/assets/images/hersteller/veroboard-r-rapid.webp"
     }
 ]

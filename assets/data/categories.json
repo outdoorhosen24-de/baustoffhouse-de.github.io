@@ -1,107 +1,317 @@
 [
     {
-        "key": "insektenschutz",
-        "name": "Insektenschutz",
-        "slug": "insektenschutz",
-        "productCategory": "Insektenschutz",
+        "key": "trockenausbau",
+        "name": "Trockenausbau",
+        "slug": "trockenausbau",
+        "productCategory": "Trockenausbau",
         "subCategories": []
     },
     {
-        "key": "fliegengittertüren",
-        "name": "Fliegengittertüren",
-        "slug": "fliegengitterturen",
-        "productCategory": "Fliegengittertüren",
+        "key": "zubehör für gipskartonplatten",
+        "name": "Zubehör für Gipskartonplatten",
+        "slug": "zubehor-fur-gipskartonplatten",
+        "productCategory": "Zubehör für Gipskartonplatten",
         "subCategories": []
     },
     {
-        "key": "plissees",
-        "name": "Plissees",
-        "slug": "plissees",
-        "productCategory": "Plissees",
+        "key": "putz, mörtel & zement",
+        "name": "Putz, Mörtel & Zement",
+        "slug": "putz-mortel-zement",
+        "productCategory": "Putz, Mörtel & Zement",
         "subCategories": []
     },
     {
-        "key": "insektenschutzrahmen",
-        "name": "Insektenschutzrahmen",
-        "slug": "insektenschutzrahmen",
-        "productCategory": "Insektenschutzrahmen",
+        "key": "trockenmörtel",
+        "name": "Trockenmörtel",
+        "slug": "trockenmortel",
+        "productCategory": "Trockenmörtel",
         "subCategories": []
     },
     {
-        "key": "stil- & seilspanngarnituren",
-        "name": "Stil- & Seilspanngarnituren",
-        "slug": "stil-seilspanngarnituren",
-        "productCategory": "Stil- & Seilspanngarnituren",
+        "key": "putze",
+        "name": "Putze",
+        "slug": "putze",
+        "productCategory": "Putze",
         "subCategories": []
     },
     {
-        "key": "lamellenvorhänge",
-        "name": "Lamellenvorhänge",
-        "slug": "lamellenvorhange",
-        "productCategory": "Lamellenvorhänge",
+        "key": "gipskartonplatten",
+        "name": "Gipskartonplatten",
+        "slug": "gipskartonplatten",
+        "productCategory": "Gipskartonplatten",
         "subCategories": []
     },
     {
-        "key": "rollos & raffrollos",
-        "name": "Rollos & Raffrollos",
-        "slug": "rollos-raffrollos",
-        "productCategory": "Rollos & Raffrollos",
+        "key": "ausgleichsmassen",
+        "name": "Ausgleichsmassen",
+        "slug": "ausgleichsmassen",
+        "productCategory": "Ausgleichsmassen",
         "subCategories": []
     },
     {
-        "key": "jalousien",
-        "name": "Jalousien",
-        "slug": "jalousien",
-        "productCategory": "Jalousien",
+        "key": "bauzubehör",
+        "name": "Bauzubehör",
+        "slug": "bauzubehor",
+        "productCategory": "Bauzubehör",
         "subCategories": []
     },
     {
-        "key": "gardinenschienen",
-        "name": "Gardinenschienen",
-        "slug": "gardinenschienen",
-        "productCategory": "Gardinenschienen",
+        "key": "baueimer & mörtelkübel",
+        "name": "Baueimer & Mörtelkübel",
+        "slug": "baueimer-mortelkubel",
+        "productCategory": "Baueimer & Mörtelkübel",
         "subCategories": []
     },
     {
-        "key": "fenstervorhänge",
-        "name": "Fenstervorhänge",
-        "slug": "fenstervorhange",
-        "productCategory": "Fenstervorhänge",
+        "key": "bedachungen & dachrinnen",
+        "name": "Bedachungen & Dachrinnen",
+        "slug": "bedachungen-dachrinnen",
+        "productCategory": "Bedachungen & Dachrinnen",
         "subCategories": []
     },
     {
-        "key": "vitragestangen",
-        "name": "Vitragestangen",
-        "slug": "vitragestangen",
-        "productCategory": "Vitragestangen",
+        "key": "bitumenbedachung",
+        "name": "Bitumenbedachung",
+        "slug": "bitumenbedachung",
+        "productCategory": "Bitumenbedachung",
         "subCategories": []
     },
     {
-        "key": "insektenschutzzubehör",
-        "name": "Insektenschutzzubehör",
-        "slug": "insektenschutzzubehor",
-        "productCategory": "Insektenschutzzubehör",
+        "key": "steine & schüttgüter",
+        "name": "Steine & Schüttgüter",
+        "slug": "steine-schuttguter",
+        "productCategory": "Steine & Schüttgüter",
         "subCategories": []
     },
     {
-        "key": "türdichtungen & fensterdichtungen",
-        "name": "Türdichtungen & Fensterdichtungen",
-        "slug": "turdichtungen-fensterdichtungen",
-        "productCategory": "Türdichtungen & Fensterdichtungen",
+        "key": "schüttgüter",
+        "name": "Schüttgüter",
+        "slug": "schuttguter",
+        "productCategory": "Schüttgüter",
         "subCategories": []
     },
     {
-        "key": "fliegengitterfenster",
-        "name": "Fliegengitterfenster",
-        "slug": "fliegengitterfenster",
-        "productCategory": "Fliegengitterfenster",
+        "key": "porenbetonsteine",
+        "name": "Porenbetonsteine",
+        "slug": "porenbetonsteine",
+        "productCategory": "Porenbetonsteine",
         "subCategories": []
     },
     {
-        "key": "insektenschutznetze",
-        "name": "Insektenschutznetze",
-        "slug": "insektenschutznetze",
-        "productCategory": "Insektenschutznetze",
+        "key": "pu-schäume",
+        "name": "PU-Schäume",
+        "slug": "pu-schaume",
+        "productCategory": "PU-Schäume",
+        "subCategories": []
+    },
+    {
+        "key": "dämmstoffe",
+        "name": "Dämmstoffe",
+        "slug": "dammstoffe",
+        "productCategory": "Dämmstoffe",
+        "subCategories": []
+    },
+    {
+        "key": "vollwärmeschutz-systeme",
+        "name": "Vollwärmeschutz-Systeme",
+        "slug": "vollwarmeschutz-systeme",
+        "productCategory": "Vollwärmeschutz-Systeme",
+        "subCategories": []
+    },
+    {
+        "key": "zubehör für gipsfaserplatten",
+        "name": "Zubehör für Gipsfaserplatten",
+        "slug": "zubehor-fur-gipsfaserplatten",
+        "productCategory": "Zubehör für Gipsfaserplatten",
+        "subCategories": []
+    },
+    {
+        "key": "geschäumte dämmstoffe",
+        "name": "Geschäumte Dämmstoffe",
+        "slug": "geschaumte-dammstoffe",
+        "productCategory": "Geschäumte Dämmstoffe",
+        "subCategories": []
+    },
+    {
+        "key": "baufolien & planen",
+        "name": "Baufolien & Planen",
+        "slug": "baufolien-planen",
+        "productCategory": "Baufolien & Planen",
+        "subCategories": []
+    },
+    {
+        "key": "putzträger",
+        "name": "Putzträger",
+        "slug": "putztrager",
+        "productCategory": "Putzträger",
+        "subCategories": []
+    },
+    {
+        "key": "kunststoff-dachrinnen",
+        "name": "Kunststoff-Dachrinnen",
+        "slug": "kunststoff-dachrinnen",
+        "productCategory": "Kunststoff-Dachrinnen",
+        "subCategories": []
+    },
+    {
+        "key": "zemente & kalke",
+        "name": "Zemente & Kalke",
+        "slug": "zemente-kalke",
+        "productCategory": "Zemente & Kalke",
+        "subCategories": []
+    },
+    {
+        "key": "entwässerung & abdichtung",
+        "name": "Entwässerung & Abdichtung",
+        "slug": "entwasserung-abdichtung",
+        "productCategory": "Entwässerung & Abdichtung",
+        "subCategories": []
+    },
+    {
+        "key": "bauabdichtungen",
+        "name": "Bauabdichtungen",
+        "slug": "bauabdichtungen",
+        "productCategory": "Bauabdichtungen",
+        "subCategories": []
+    },
+    {
+        "key": "kunststoffbedachung",
+        "name": "Kunststoffbedachung",
+        "slug": "kunststoffbedachung",
+        "productCategory": "Kunststoffbedachung",
+        "subCategories": []
+    },
+    {
+        "key": "außenleitern",
+        "name": "Außenleitern",
+        "slug": "aussenleitern",
+        "productCategory": "Außenleitern",
+        "subCategories": []
+    },
+    {
+        "key": "metall-dachrinnen",
+        "name": "Metall-Dachrinnen",
+        "slug": "metall-dachrinnen",
+        "productCategory": "Metall-Dachrinnen",
+        "subCategories": []
+    },
+    {
+        "key": "baugeräte & baumaschinen",
+        "name": "Baugeräte & Baumaschinen",
+        "slug": "baugerate-baumaschinen",
+        "productCategory": "Baugeräte & Baumaschinen",
+        "subCategories": []
+    },
+    {
+        "key": "mineralfaser dämmstoffe",
+        "name": "Mineralfaser Dämmstoffe",
+        "slug": "mineralfaser-dammstoffe",
+        "productCategory": "Mineralfaser Dämmstoffe",
+        "subCategories": []
+    },
+    {
+        "key": "drainage & grundmauerschutz",
+        "name": "Drainage & Grundmauerschutz",
+        "slug": "drainage-grundmauerschutz",
+        "productCategory": "Drainage & Grundmauerschutz",
+        "subCategories": []
+    },
+    {
+        "key": "gerüste",
+        "name": "Gerüste",
+        "slug": "geruste",
+        "productCategory": "Gerüste",
+        "subCategories": []
+    },
+    {
+        "key": "kg-rohre",
+        "name": "KG-Rohre",
+        "slug": "kg-rohre",
+        "productCategory": "KG-Rohre",
+        "subCategories": []
+    },
+    {
+        "key": "bau- & fliesenlegerplatten",
+        "name": "Bau- & Fliesenlegerplatten",
+        "slug": "bau-fliesenlegerplatten",
+        "productCategory": "Bau- & Fliesenlegerplatten",
+        "subCategories": []
+    },
+    {
+        "key": "ständerwerk",
+        "name": "Ständerwerk",
+        "slug": "standerwerk",
+        "productCategory": "Ständerwerk",
+        "subCategories": []
+    },
+    {
+        "key": "dachbleche",
+        "name": "Dachbleche",
+        "slug": "dachbleche",
+        "productCategory": "Dachbleche",
+        "subCategories": []
+    },
+    {
+        "key": "bitumenflüssigprodukte",
+        "name": "Bitumenflüssigprodukte",
+        "slug": "bitumenflussigprodukte",
+        "productCategory": "Bitumenflüssigprodukte",
+        "subCategories": []
+    },
+    {
+        "key": "systeme für abgehängte decken",
+        "name": "Systeme für abgehängte Decken",
+        "slug": "systeme-fur-abgehangte-decken",
+        "productCategory": "Systeme für abgehängte Decken",
+        "subCategories": []
+    },
+    {
+        "key": "gipsfaserplatten",
+        "name": "Gipsfaserplatten",
+        "slug": "gipsfaserplatten",
+        "productCategory": "Gipsfaserplatten",
+        "subCategories": []
+    },
+    {
+        "key": "dämmstoffzubehör",
+        "name": "Dämmstoffzubehör",
+        "slug": "dammstoffzubehor",
+        "productCategory": "Dämmstoffzubehör",
+        "subCategories": []
+    },
+    {
+        "key": "baustahl & baugitter",
+        "name": "Baustahl & Baugitter",
+        "slug": "baustahl-baugitter",
+        "productCategory": "Baustahl & Baugitter",
+        "subCategories": []
+    },
+    {
+        "key": "mauersteine",
+        "name": "Mauersteine",
+        "slug": "mauersteine",
+        "productCategory": "Mauersteine",
+        "subCategories": []
+    },
+    {
+        "key": "trockenschüttungen",
+        "name": "Trockenschüttungen",
+        "slug": "trockenschuttungen",
+        "productCategory": "Trockenschüttungen",
+        "subCategories": []
+    },
+    {
+        "key": "glasbausteine",
+        "name": "Glasbausteine",
+        "slug": "glasbausteine",
+        "productCategory": "Glasbausteine",
+        "subCategories": []
+    },
+    {
+        "key": "stürze",
+        "name": "Stürze",
+        "slug": "sturze",
+        "productCategory": "Stürze",
         "subCategories": []
     }
 ]
