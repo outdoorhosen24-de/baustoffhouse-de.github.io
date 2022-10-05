@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
-    "domain": "wassersport24.net",
-    "hostname": "https://wassersport24.net/",
-    "email": "wassersport24.net@surrealnetworks.io",
-    "organization": "wassersport24.net",
-    "logoText": "Wassersport24.net",
-    "title": "title",
-    "subline": "subline",
+    "configIsReady": true,
+    "domain": "baustoffhouse.de",
+    "hostname": "https://www.baustoffhouse.de/",
+    "email": "baustoffhouse.desurrealnetworks.io",
+    "organization": "baustoffhouse.de",
+    "logoText": "Baustoffhouse.de",
+    "title": "Baustoffe",
+    "subline": "Der Online Shop f\u00fcr Baustoffe",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -14,9 +14,27 @@
     "numberOfProductsOnStartpage": 18,
     "numberMaximumProductsPerCategory": 100,
     "numberOfRelevantProduct": 12,
-    "popularProducts": [],
-    "winnerProducts": [],
-    "featuredCategories": [],
+    "popularProducts": [
+        "6974505",
+        "7286941",
+        "6116990",
+        "6644694",
+        "5214523",
+        "2197853"
+    ],
+    "winnerProducts": [
+        "2353548",
+        "6494447",
+        "2197838"
+    ],
+    "featuredCategories": [
+        "Systeme f\u00fcr abgeh\u00e4ngte Decken",
+        "St\u00e4nderwerk",
+        "Bau- & Fliesenlegerplatten",
+        "Entw\u00e4sserung & Abdichtung",
+        "Kunststoffbedachung",
+        "Zubeh\u00f6r f\u00fcr Gipskartonplatten"
+    ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
     "checklist": [
@@ -28,37 +46,33 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Baustoffe",
-        "featureText": "Your featured text goes here",
+        "featureText": "Die Baustoffe sind in der Regel in einem Baumarkt zu finden. Dort gibt es verschiedene Arten von Baustoffen, wie zum Beispiel Zement, Sand, Kies und Schotter. Die Baustoffe werden meistens in verschiedenen Gr\u00f6\u00dfen und Formen verkauft.",
         "index": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex",
+            "title": "Baustoffe f\u00fcr Ihr Zuhause",
+            "metaDescription": "Der Shop f\u00fcr Baustoffe ist der richtige Ort f\u00fcr alle, die auf der Suche nach hochwertigen und langlebigen Materialien sind. Hier findest du alles, was du f\u00fcr dein Bauvorhaben brauchst.",
+            "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Title of a SEO Text",
-                    "text": "Text of a SEO Text"
-                },
-                {
-                    "title": "New title",
-                    "text": "new text"
+                    "title": "Baustoffe: Alles, was Sie f\u00fcr Ihr Bauvorhaben brauchen",
+                    "text": "Baustoffe sind die Grundlage f\u00fcr die Herstellung von Bauwerken. Sie dienen als Tr\u00e4ger f\u00fcr die Lasten, die auf sie wirken, und als Schutz vor Umwelteinfl\u00fcssen. Die Wahl der Baustoffe h\u00e4ngt von vielen Faktoren ab, wie zum Beispiel der Art des Bauwerks, den klimatischen Bedingungen und den Anforderungen an die Haltbarkeit.\n\nDie wichtigsten Baustoffe sind Beton, Stahl, Holz, Ziegel und Glas. Beton ist ein Gemisch aus Zement, Sand und Kies. Stahl ist ein Eisen-Legierungsmaterial, das sehr stabil und belastbar ist. Holz ist ein nat\u00fcrlicher Baustoff, der vielseitig einsetzbar ist. Ziegel sind gebrannte Tonsteine, die sehr langlebig sind. Glas ist ein transparentes Material, das vor allem f\u00fcr Fenster und T\u00fcren verwendet wird.\n\nDie Wahl des richtigen Baustoffes ist entscheidend f\u00fcr die Qualit\u00e4t und Haltbarkeit eines Bauwerks. Daher sollte sorgf\u00e4ltig \u00fcberlegt werden, welcher Baustoff f\u00fcr welchen Zweck am besten geeignet ist."
                 }
             ]
         },
         "shop": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Baustoffe Shop",
+            "metaDescription": "Der Baustoffshop ist Ihr Online-Shop f\u00fcr alle Ihre Baustoffbed\u00fcrfnisse. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Baustoffen zu g\u00fcnstigen Preisen.",
+            "robots": "index, follow"
         },
         "hersteller": {
-            "title": "",
-            "metaDescription": "",
-            "robots": "nofollow, noindex"
+            "title": "Baustoffe manufacturer",
+            "metaDescription": "Baustoffe manufacturer - Wir sind ein f\u00fchrender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte f\u00fcr die Bauindustrie.",
+            "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "$PRODUKT: Die besten Baustoffe f\u00fcr Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE. Hier finden Sie alle Informationen \u00fcber das Produkt, sowie Kundenbewertungen und mehr.",
+        "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
@@ -72,9 +86,9 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultTitle": "Baustoffe f\u00fcr $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE Baustoffe - Finde die besten Baustoffe f\u00fcr dein Bauvorhaben. Jetzt online bestellen bei OBI!",
+        "defaultRobots": "index, follow",
         "categories": [
             {
                 "key": "sporthosen",
@@ -100,8 +114,8 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "",
-        "defaultRobots": "nofollow, noindex",
+        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte f\u00fcr den Bau und die Renovierung.",
+        "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
@@ -118,26 +132,30 @@
         {
             "title": "Start",
             "linkTo": "/",
-            "linkTitle": "Wassersport",
+            "linkTitle": "Baustoffe",
             "publish": true
         },
         {
             "title": "Shop",
             "linkTo": "/shop/",
-            "linkTitle": "Wassersport Shop",
+            "linkTitle": "Baustoffe Shop",
             "publish": true
         },
         {
             "title": "Marken",
             "linkTo": "/marken/",
-            "linkTitle": "Wassersport Marken",
+            "linkTitle": "Baustoffe Marken",
             "publish": true
         },
         {
             "title": "Kontakt",
             "linkTo": "/kontakt/",
-            "linkTitle": "Wassersport Kontakt",
+            "linkTitle": "Kontakt",
             "publish": false
         }
-    ]
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
+    }
 }
