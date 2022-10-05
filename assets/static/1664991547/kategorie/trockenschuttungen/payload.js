@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/trockenschuttungen", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/fibotherm-trockenschuettung-50-liter-sonstige-6474837-1.jpg":"\u002Fassets\u002Fimages\u002Ffibotherm-trockenschuettung-50-liter-sonstige-6474837-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/rockwool", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/rockwool-trennwandplatte-sonorock-40-mm-steinwolle-wlg-040-rockwool-2877751-1.jpg":"\u002Fassets\u002Fimages\u002Frockwool-trennwandplatte-sonorock-40-mm-steinwolle-wlg-040-rockwool-2877751-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/kategorie/sturze", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/betonsturz-71-cm-x-115-cm-x-113-cm-christoph-6280721-1.jpg":"\u002Fassets\u002Fimages\u002Fbetonsturz-71-cm-x-115-cm-x-113-cm-christoph-6280721-1.webp"}}],fetch:{},mutations:void 0});

@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/marken/lugato", {data:[{_img:{"/_ipx/f_webp,q_90,s_407x229/assets/images/images/duennbettmoertel-sicherheitskleber-porenbeton-5-kg-lugato-1497452-1.jpg":"\u002Fassets\u002Fimages\u002Fduennbettmoertel-sicherheitskleber-porenbeton-5-kg-lugato-1497452-1.webp"}}],fetch:{},mutations:void 0});
