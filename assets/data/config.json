@@ -1,12 +1,12 @@
 {
-    "configIsReady": true,
+    "configIsReady": false,
     "domain": "baustoffhouse.de",
     "hostname": "https://www.baustoffhouse.de/",
     "email": "baustoffhouse.desurrealnetworks.io",
     "organization": "baustoffhouse.de",
     "logoText": "Baustoffhouse.de",
     "title": "Baustoffe",
-    "subline": "Der Online Shop f\u00fcr Baustoffe",
+    "subline": "Der Online Shop für Baustoffe",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -28,12 +28,12 @@
         "2197838"
     ],
     "featuredCategories": [
-        "Systeme f\u00fcr abgeh\u00e4ngte Decken",
-        "St\u00e4nderwerk",
+        "Systeme für abgehängte Decken",
+        "Ständerwerk",
         "Bau- & Fliesenlegerplatten",
-        "Entw\u00e4sserung & Abdichtung",
+        "Entwässerung & Abdichtung",
         "Kunststoffbedachung",
-        "Zubeh\u00f6r f\u00fcr Gipskartonplatten"
+        "Zubehör für Gipskartonplatten"
     ],
     "socialMediaAccounts": [],
     "imageQuality": 90,
@@ -46,48 +46,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Baustoffe",
-        "featureText": "Die Baustoffe sind in der Regel in einem Baumarkt zu finden. Dort gibt es verschiedene Arten von Baustoffen, wie zum Beispiel Zement, Sand, Kies und Schotter. Die Baustoffe werden meistens in verschiedenen Gr\u00f6\u00dfen und Formen verkauft.",
+        "featureText": "Die Baustoffe sind in der Regel in einem Baumarkt zu finden. Dort gibt es verschiedene Arten von Baustoffen, wie zum Beispiel Zement, Sand, Kies und Schotter. Die Baustoffe werden meistens in verschiedenen Größen und Formen verkauft.",
         "index": {
-            "title": "Baustoffe f\u00fcr Ihr Zuhause",
-            "metaDescription": "Der Shop f\u00fcr Baustoffe ist der richtige Ort f\u00fcr alle, die auf der Suche nach hochwertigen und langlebigen Materialien sind. Hier findest du alles, was du f\u00fcr dein Bauvorhaben brauchst.",
+            "title": "Baustoffe für Ihr Zuhause",
+            "metaDescription": "Der Shop für Baustoffe ist der richtige Ort für alle, die auf der Suche nach hochwertigen und langlebigen Materialien sind. Hier findest du alles, was du für dein Bauvorhaben brauchst.",
             "robots": "index, follow",
             "texts": [
                 {
-                    "title": "Baustoffe: Alles, was Sie f\u00fcr Ihr Bauvorhaben brauchen",
-                    "text": "Baustoffe sind die Grundlage f\u00fcr die Herstellung von Bauwerken. Sie dienen als Tr\u00e4ger f\u00fcr die Lasten, die auf sie wirken, und als Schutz vor Umwelteinfl\u00fcssen. Die Wahl der Baustoffe h\u00e4ngt von vielen Faktoren ab, wie zum Beispiel der Art des Bauwerks, den klimatischen Bedingungen und den Anforderungen an die Haltbarkeit.\n\nDie wichtigsten Baustoffe sind Beton, Stahl, Holz, Ziegel und Glas. Beton ist ein Gemisch aus Zement, Sand und Kies. Stahl ist ein Eisen-Legierungsmaterial, das sehr stabil und belastbar ist. Holz ist ein nat\u00fcrlicher Baustoff, der vielseitig einsetzbar ist. Ziegel sind gebrannte Tonsteine, die sehr langlebig sind. Glas ist ein transparentes Material, das vor allem f\u00fcr Fenster und T\u00fcren verwendet wird.\n\nDie Wahl des richtigen Baustoffes ist entscheidend f\u00fcr die Qualit\u00e4t und Haltbarkeit eines Bauwerks. Daher sollte sorgf\u00e4ltig \u00fcberlegt werden, welcher Baustoff f\u00fcr welchen Zweck am besten geeignet ist."
+                    "title": "Baustoffe: Alles, was Sie für Ihr Bauvorhaben brauchen",
+                    "text": "Baustoffe sind die Grundlage für die Herstellung von Bauwerken. Sie dienen als Träger für die Lasten, die auf sie wirken, und als Schutz vor Umwelteinflüssen. Die Wahl der Baustoffe hängt von vielen Faktoren ab, wie zum Beispiel der Art des Bauwerks, den klimatischen Bedingungen und den Anforderungen an die Haltbarkeit.\n\nDie wichtigsten Baustoffe sind Beton, Stahl, Holz, Ziegel und Glas. Beton ist ein Gemisch aus Zement, Sand und Kies. Stahl ist ein Eisen-Legierungsmaterial, das sehr stabil und belastbar ist. Holz ist ein natürlicher Baustoff, der vielseitig einsetzbar ist. Ziegel sind gebrannte Tonsteine, die sehr langlebig sind. Glas ist ein transparentes Material, das vor allem für Fenster und Türen verwendet wird.\n\nDie Wahl des richtigen Baustoffes ist entscheidend für die Qualität und Haltbarkeit eines Bauwerks. Daher sollte sorgfältig überlegt werden, welcher Baustoff für welchen Zweck am besten geeignet ist."
                 }
             ]
         },
         "shop": {
             "title": "Baustoffe Shop",
-            "metaDescription": "Der Baustoffshop ist Ihr Online-Shop f\u00fcr alle Ihre Baustoffbed\u00fcrfnisse. Wir bieten eine gro\u00dfe Auswahl an hochwertigen Baustoffen zu g\u00fcnstigen Preisen.",
+            "metaDescription": "Der Baustoffshop ist Ihr Online-Shop für alle Ihre Baustoffbedürfnisse. Wir bieten eine große Auswahl an hochwertigen Baustoffen zu günstigen Preisen.",
             "robots": "index, follow"
         },
         "hersteller": {
             "title": "Baustoffe manufacturer",
-            "metaDescription": "Baustoffe manufacturer - Wir sind ein f\u00fchrender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte f\u00fcr die Bauindustrie.",
+            "metaDescription": "Baustoffe manufacturer - Wir sind ein führender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte für die Bauindustrie.",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Baustoffe f\u00fcr Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE. Hier finden Sie alle Informationen \u00fcber das Produkt, sowie Kundenbewertungen und mehr.",
+        "defaultTitle": "$PRODUKT: Die besten Baustoffe für Ihr Zuhause",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE. Hier finden Sie alle Informationen über das Produkt, sowie Kundenbewertungen und mehr.",
         "defaultRobots": "index, follow",
         "products": [
             {
                 "sku": "5637909794",
                 "name": "Ortovox PALA PANTS Kletterhose",
                 "seo": {
-                    "title": "Ortovox PALA PANTS Kletterhose g\u00fcnstig kaufen auf $DOMAIN",
-                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox g\u00fcnstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
                     "robots": "index, follow"
                 }
             }
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Baustoffe f\u00fcr $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Baustoffe - Finde die besten Baustoffe f\u00fcr dein Bauvorhaben. Jetzt online bestellen bei OBI!",
+        "defaultTitle": "Baustoffe für $KATEGORIE",
+        "defaultMetaDescription": "$KATEGORIE Baustoffe - Finde die besten Baustoffe für dein Bauvorhaben. Jetzt online bestellen bei OBI!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -95,8 +95,8 @@
                 "slug": "sporthosen",
                 "name": "Sporthosen",
                 "seo": {
-                    "title": "Sporthosen g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Sporthosen im \u00dcberblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
                     "robots": "index, follow",
                     "texts": [
                         {
@@ -114,15 +114,15 @@
     },
     "brandSeo": {
         "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein f\u00fchrender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte f\u00fcr den Bau und die Renovierung.",
+        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte für den Bau und die Renovierung.",
         "defaultRobots": "index, follow",
         "brands": [
             {
                 "key": "palm",
                 "name": "Palm",
                 "seo": {
-                    "title": "Produkte von Palm g\u00fcnstig kaufen",
-                    "metaDescription": "Alle Produkte von Palm im \u00dcberblick. Produkte und Testsieger. Der Hersteller f\u00fcr Outdoor Produkte.",
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
                     "robots": "index, follow"
                 }
             }
