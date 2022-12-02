@@ -51,12 +51,15 @@
             "title": "Baustoffe für Ihr Zuhause",
             "metaDescription": "Der Shop für Baustoffe ist der richtige Ort für alle, die auf der Suche nach hochwertigen und langlebigen Materialien sind. Hier findest du alles, was du für dein Bauvorhaben brauchst.",
             "robots": "index, follow",
-            "texts": [
-                {
-                    "title": "Baustoffe: Alles, was Sie für Ihr Bauvorhaben brauchen",
-                    "text": "Baustoffe sind die Grundlage für die Herstellung von Bauwerken. Sie dienen als Träger für die Lasten, die auf sie wirken, und als Schutz vor Umwelteinflüssen. Die Wahl der Baustoffe hängt von vielen Faktoren ab, wie zum Beispiel der Art des Bauwerks, den klimatischen Bedingungen und den Anforderungen an die Haltbarkeit.\n\nDie wichtigsten Baustoffe sind Beton, Stahl, Holz, Ziegel und Glas. Beton ist ein Gemisch aus Zement, Sand und Kies. Stahl ist ein Eisen-Legierungsmaterial, das sehr stabil und belastbar ist. Holz ist ein natürlicher Baustoff, der vielseitig einsetzbar ist. Ziegel sind gebrannte Tonsteine, die sehr langlebig sind. Glas ist ein transparentes Material, das vor allem für Fenster und Türen verwendet wird.\n\nDie Wahl des richtigen Baustoffes ist entscheidend für die Qualität und Haltbarkeit eines Bauwerks. Daher sollte sorgfältig überlegt werden, welcher Baustoff für welchen Zweck am besten geeignet ist."
-                }
-            ]
+            "seotext": {
+                "published": false,
+                "content": [
+                    {
+                        "title": "Baustoffe: Alles, was Sie für Ihr Bauvorhaben brauchen",
+                        "text": "Baustoffe sind die Grundlage für die Herstellung von Bauwerken. Sie dienen als Träger für die Lasten, die auf sie wirken, und als Schutz vor Umwelteinflüssen. Die Wahl der Baustoffe hängt von vielen Faktoren ab, wie zum Beispiel der Art des Bauwerks, den klimatischen Bedingungen und den Anforderungen an die Haltbarkeit.\n\nDie wichtigsten Baustoffe sind Beton, Stahl, Holz, Ziegel und Glas. Beton ist ein Gemisch aus Zement, Sand und Kies. Stahl ist ein Eisen-Legierungsmaterial, das sehr stabil und belastbar ist. Holz ist ein natürlicher Baustoff, der vielseitig einsetzbar ist. Ziegel sind gebrannte Tonsteine, die sehr langlebig sind. Glas ist ein transparentes Material, das vor allem für Fenster und Türen verwendet wird.\n\nDie Wahl des richtigen Baustoffes ist entscheidend für die Qualität und Haltbarkeit eines Bauwerks. Daher sollte sorgfältig überlegt werden, welcher Baustoff für welchen Zweck am besten geeignet ist."
+                    }
+                ]
+            }
         },
         "shop": {
             "title": "Baustoffe Shop",
