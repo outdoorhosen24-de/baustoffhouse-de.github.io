@@ -1,12 +1,12 @@
 {
-    "configIsReady": false,
+    "configIsReady": true,
     "domain": "baustoffhouse.de",
     "hostname": "https://www.baustoffhouse.de/",
     "email": "baustoffhouse.de@surrealnetworks.io",
     "organization": "baustoffhouse.de",
     "logoText": "Baustoffhouse.de",
     "title": "Baustoffe",
-    "subline": "Der Online Shop für Baustoffe",
+    "subline": "Der Online Shop für Handwerker",
     "companyAddress": "Uvoz 159/26 - Praha 1 - Hradcany, CZ",
     "imageFolder": "/assets/images/images/",
     "productUrl": "/produkt/",
@@ -46,10 +46,10 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Baustoffe",
-        "featureText": "Die Baustoffe sind in der Regel in einem Baumarkt zu finden. Dort gibt es verschiedene Arten von Baustoffen, wie zum Beispiel Zement, Sand, Kies und Schotter. Die Baustoffe werden meistens in verschiedenen Größen und Formen verkauft.",
+        "featureText": "Herzlich Willkommen in unserem Shop! Bei uns finden Sie Baustoffe jeglicher Art. Wir haben Ihnen ein breites Sortiment an Produkten zusammengestellt. Dabei achten wir stets auf hohe Qualitätsstandards. Ob Mörtel, Putz, Zement, Betonsteine, Dämmstoffe oder andere ausgewählte Produkte, bei uns werden Sie fündig. Klicken Sie sich gerne durch unsere übersichtliche Darstellung der verschiedenen Kategorien!",
         "index": {
-            "title": "Baustoffe für Ihr Zuhause",
-            "metaDescription": "Der Shop für Baustoffe ist der richtige Ort für alle, die auf der Suche nach hochwertigen und langlebigen Materialien sind. Hier findest du alles, was du für dein Bauvorhaben brauchst.",
+            "title": "Baustoffe für jeden Anwendungsbereich",
+            "metaDescription": "Zement ~ Mörtel ~ Putz ~ Gipskartonplatten ~ Steine & Schüttgut ~ Betonsteine ~ Dämmstoffe ~ Baufolien & Planen ~ Dachrinnen ~ Außenleitern ~ Bauzubehör",
             "robots": "index, follow",
             "seotext": {
                 "published": false,
@@ -62,19 +62,19 @@
             }
         },
         "shop": {
-            "title": "Baustoffe Shop",
-            "metaDescription": "Der Baustoffshop ist Ihr Online-Shop für alle Ihre Baustoffbedürfnisse. Wir bieten eine große Auswahl an hochwertigen Baustoffen zu günstigen Preisen.",
+            "title": "Der Online Shop für Baustoffe",
+            "metaDescription": "Baustoffe wie: Zement, Mörtel, Putz, Dämmstoffe, Baufolien & Planen uvm. günstig kaufen | einfach & bequem zu Ihnen nach Hause | schnelle Lieferung ",
             "robots": "index, follow"
         },
         "hersteller": {
-            "title": "Baustoffe manufacturer",
-            "metaDescription": "Baustoffe manufacturer - Wir sind ein führender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte für die Bauindustrie.",
+            "title": "Baustoffe verschiedener Hersteller ",
+            "metaDescription": "Der Spezialist für Baustoffe | Hochwertige Markenprodukte zum günstigen Preis von Marken wie: Fermacell, Knauf, Hymer, Fuchs Design, MEM uvm. ",
             "robots": "index, follow"
         }
     },
     "productSeo": {
-        "defaultTitle": "$PRODUKT: Die besten Baustoffe für Ihr Zuhause",
-        "defaultMetaDescription": "$PRODUKT von $HERSTELLER ist ein $KATEGORIE. Hier finden Sie alle Informationen über das Produkt, sowie Kundenbewertungen und mehr.",
+        "defaultTitle": "$PRODUKT - Top Produkte zu Top Preisen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER | Hochwertige Produkte einfach online kaufen | Weitere tolle Produkte aus der Kategorie $KATEGORIE",
         "defaultRobots": "index, follow",
         "products": [
             {
@@ -89,8 +89,8 @@
         ]
     },
     "categorySeo": {
-        "defaultTitle": "Baustoffe für $KATEGORIE",
-        "defaultMetaDescription": "$KATEGORIE Baustoffe - Finde die besten Baustoffe für dein Bauvorhaben. Jetzt online bestellen bei OBI!",
+        "defaultTitle": "$KATEGORIE - einfach günstig bestellen",
+        "defaultMetaDescription": "Hochwertige Produkte zum Thema $KATEGORIE | Finden Sie die besten Baustoffe für Ihr Bauvorhaben bei uns! | Bequem von zu Hause bestellen!",
         "defaultRobots": "index, follow",
         "categories": [
             {
@@ -116,8 +116,8 @@
         ]
     },
     "brandSeo": {
-        "defaultTitle": "",
-        "defaultMetaDescription": "$HERSTELLER ist ein führender Hersteller von Baustoffen. Wir bieten hochwertige und innovative Produkte für den Bau und die Renovierung.",
+        "defaultTitle": "$HERSTELLER - Top Produkte zu Top Preisen ",
+        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller von Baustoffen, wenn es um $KATEGORIE geht | Hochwertige Produkte für Ihr Bauvorhaben",
         "defaultRobots": "index, follow",
         "brands": [
             {
