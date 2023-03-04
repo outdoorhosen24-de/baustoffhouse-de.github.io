@@ -9,21 +9,21 @@
     {
         "key": "zubehör für gipskartonplatten",
         "name": "Zubehör für Gipskartonplatten",
-        "slug": "zubehor-fur-gipskartonplatten",
+        "slug": "zubehoer-fuer-gipskartonplatten",
         "productCategory": "Zubehör für Gipskartonplatten",
         "subCategories": []
     },
     {
         "key": "putz, mörtel & zement",
         "name": "Putz, Mörtel & Zement",
-        "slug": "putz-mortel-zement",
+        "slug": "putz-moertel-zement",
         "productCategory": "Putz, Mörtel & Zement",
         "subCategories": []
     },
     {
         "key": "trockenmörtel",
         "name": "Trockenmörtel",
-        "slug": "trockenmortel",
+        "slug": "trockenmoertel",
         "productCategory": "Trockenmörtel",
         "subCategories": []
     },
@@ -51,14 +51,14 @@
     {
         "key": "bauzubehör",
         "name": "Bauzubehör",
-        "slug": "bauzubehor",
+        "slug": "bauzubehoer",
         "productCategory": "Bauzubehör",
         "subCategories": []
     },
     {
         "key": "baueimer & mörtelkübel",
         "name": "Baueimer & Mörtelkübel",
-        "slug": "baueimer-mortelkubel",
+        "slug": "baueimer-moertelkuebel",
         "productCategory": "Baueimer & Mörtelkübel",
         "subCategories": []
     },
@@ -79,14 +79,14 @@
     {
         "key": "steine & schüttgüter",
         "name": "Steine & Schüttgüter",
-        "slug": "steine-schuttguter",
+        "slug": "steine-schuettgueter",
         "productCategory": "Steine & Schüttgüter",
         "subCategories": []
     },
     {
         "key": "schüttgüter",
         "name": "Schüttgüter",
-        "slug": "schuttguter",
+        "slug": "schuettgueter",
         "productCategory": "Schüttgüter",
         "subCategories": []
     },
@@ -100,35 +100,35 @@
     {
         "key": "pu-schäume",
         "name": "PU-Schäume",
-        "slug": "pu-schaume",
+        "slug": "pu-schaeume",
         "productCategory": "PU-Schäume",
         "subCategories": []
     },
     {
         "key": "dämmstoffe",
         "name": "Dämmstoffe",
-        "slug": "dammstoffe",
+        "slug": "daemmstoffe",
         "productCategory": "Dämmstoffe",
         "subCategories": []
     },
     {
         "key": "vollwärmeschutz-systeme",
         "name": "Vollwärmeschutz-Systeme",
-        "slug": "vollwarmeschutz-systeme",
+        "slug": "vollwaermeschutz-systeme",
         "productCategory": "Vollwärmeschutz-Systeme",
         "subCategories": []
     },
     {
         "key": "zubehör für gipsfaserplatten",
         "name": "Zubehör für Gipsfaserplatten",
-        "slug": "zubehor-fur-gipsfaserplatten",
+        "slug": "zubehoer-fuer-gipsfaserplatten",
         "productCategory": "Zubehör für Gipsfaserplatten",
         "subCategories": []
     },
     {
         "key": "geschäumte dämmstoffe",
         "name": "Geschäumte Dämmstoffe",
-        "slug": "geschaumte-dammstoffe",
+        "slug": "geschaeumte-daemmstoffe",
         "productCategory": "Geschäumte Dämmstoffe",
         "subCategories": []
     },
@@ -142,7 +142,7 @@
     {
         "key": "putzträger",
         "name": "Putzträger",
-        "slug": "putztrager",
+        "slug": "putztraeger",
         "productCategory": "Putzträger",
         "subCategories": []
     },
@@ -163,7 +163,7 @@
     {
         "key": "entwässerung & abdichtung",
         "name": "Entwässerung & Abdichtung",
-        "slug": "entwasserung-abdichtung",
+        "slug": "entwaesserung-abdichtung",
         "productCategory": "Entwässerung & Abdichtung",
         "subCategories": []
     },
@@ -198,14 +198,14 @@
     {
         "key": "baugeräte & baumaschinen",
         "name": "Baugeräte & Baumaschinen",
-        "slug": "baugerate-baumaschinen",
+        "slug": "baugeraete-baumaschinen",
         "productCategory": "Baugeräte & Baumaschinen",
         "subCategories": []
     },
     {
         "key": "mineralfaser dämmstoffe",
         "name": "Mineralfaser Dämmstoffe",
-        "slug": "mineralfaser-dammstoffe",
+        "slug": "mineralfaser-daemmstoffe",
         "productCategory": "Mineralfaser Dämmstoffe",
         "subCategories": []
     },
@@ -219,7 +219,7 @@
     {
         "key": "gerüste",
         "name": "Gerüste",
-        "slug": "geruste",
+        "slug": "gerueste",
         "productCategory": "Gerüste",
         "subCategories": []
     },
@@ -240,7 +240,7 @@
     {
         "key": "ständerwerk",
         "name": "Ständerwerk",
-        "slug": "standerwerk",
+        "slug": "staenderwerk",
         "productCategory": "Ständerwerk",
         "subCategories": []
     },
@@ -254,14 +254,14 @@
     {
         "key": "bitumenflüssigprodukte",
         "name": "Bitumenflüssigprodukte",
-        "slug": "bitumenflussigprodukte",
+        "slug": "bitumenfluessigprodukte",
         "productCategory": "Bitumenflüssigprodukte",
         "subCategories": []
     },
     {
         "key": "systeme für abgehängte decken",
         "name": "Systeme für abgehängte Decken",
-        "slug": "systeme-fur-abgehangte-decken",
+        "slug": "systeme-fuer-abgehaengte-decken",
         "productCategory": "Systeme für abgehängte Decken",
         "subCategories": []
     },
@@ -275,7 +275,7 @@
     {
         "key": "dämmstoffzubehör",
         "name": "Dämmstoffzubehör",
-        "slug": "dammstoffzubehor",
+        "slug": "daemmstoffzubehoer",
         "productCategory": "Dämmstoffzubehör",
         "subCategories": []
     },
@@ -296,7 +296,7 @@
     {
         "key": "trockenschüttungen",
         "name": "Trockenschüttungen",
-        "slug": "trockenschuttungen",
+        "slug": "trockenschuettungen",
         "productCategory": "Trockenschüttungen",
         "subCategories": []
     },
@@ -310,7 +310,7 @@
     {
         "key": "stürze",
         "name": "Stürze",
-        "slug": "sturze",
+        "slug": "stuerze",
         "productCategory": "Stürze",
         "subCategories": []
     }
