@@ -1,479 +1,486 @@
 {
-  "configIsReady": true,
-  "domain": "baustoffhouse.de",
-  "hostname": "https://www.baustoffhouse.de/",
-  "email": "baustoffhouse.de@surrealnetworks.io",
-  "organization": "baustoffhouse.de",
-  "logoText": "Baustoffhouse.de",
-  "title": "Baustoffe",
-  "subline": "Der Online Shop für Handwerker",
-  "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
-  "imageFolder": "/assets/images/images/",
-  "productUrl": "/produkt/",
-  "kategorieUrl": "/kategorie/",
-  "numberOfProductsOnStartpage": 18,
-  "numberMaximumProductsPerCategory": 100,
-  "numberOfRelevantProduct": 12,
-  "popularProducts": [
-    "6974505",
-    "7286941",
-    "6116990",
-    "6644694",
-    "5214523",
-    "2197853"
-  ],
-  "winnerProducts": [
-    "2353548",
-    "6494447",
-    "2197838"
-  ],
-  "featuredCategories": [
-    "Systeme für abgehängte Decken",
-    "Ständerwerk",
-    "Bau- & Fliesenlegerplatten",
-    "Entwässerung & Abdichtung",
-    "Kunststoffbedachung",
-    "Zubehör für Gipskartonplatten"
-  ],
-  "socialMediaAccounts": [],
-  "imageQuality": 90,
-  "checklist": [
-    "Material",
-    "Komfort",
-    "Funktion",
-    "Haltbarkeit"
-  ],
-  "seo": {
-    "htmlLang": "de",
-    "mainKeyword": "Baustoffe",
-    "featureText": "Herzlich Willkommen in unserem Shop! Bei uns finden Sie Baustoffe jeglicher Art. Wir haben Ihnen ein breites Sortiment an Produkten zusammengestellt. Dabei achten wir stets auf hohe Qualitätsstandards. Ob Mörtel, Putz, Zement, Betonsteine, Dämmstoffe oder andere ausgewählte Produkte, bei uns werden Sie fündig. Klicken Sie sich gerne durch unsere übersichtliche Darstellung der verschiedenen Kategorien!",
-    "index": {
-      "title": "Baustoffe für jeden Anwendungsbereich",
-      "metaDescription": "Zement ~ Mörtel ~ Putz ~ Gipskartonplatten ~ Steine & Schüttgut ~ Betonsteine ~ Dämmstoffe ~ Baufolien & Planen ~ Dachrinnen ~ Außenleitern ~ Bauzubehör",
-      "robots": "index, follow",
-      "seotext": {
-        "published": true,
-        "content": [
-          {
-            "title": "Willkommen bei Baustoff House",
-            "text": "Baustoff House ist Ihr Online-Shop für hochwertige Baustoffe und Bauzubehör. Wir bieten Ihnen eine große Auswahl an Produkten für den Trockenausbau, darunter Zubehör für Gipskartonplatten, Putz, Mörtel und Zement, Trockenmörtel, Putze, Gipskartonplatten und Ausgleichsmassen. Unser Sortiment umfasst auch Bauzubehör wie Baueimer und Mörtelkübel, Bedachungen und Dachrinnen, Bitumenbedachung, Steine und Schüttgüter, Porenbetonsteine, PU-Schäume, Dämmstoffe, Vollwärmeschutz-Systeme und Zubehör für Gipsfaserplatten.Wir haben auch eine breite Palette an Geschäumten Dämmstoffen, Baufolien und Planen, Putzträgern, Kunststoff-Dachrinnen, Zementen und Kalke, Entwässerung und Abdichtung, Bauabdichtungen, Kunststoffbedachungen, Außenleitern, Metall-Dachrinnen, Baugeräten und Baumaschinen, Mineralfaser-Dämmstoffen, Drainage und Grundmauerschutz, Gerüsten, KG-Rohren, Bau- und Fliesenlegerplatten, Ständerwerk, Dachblechen, Bitumenflüssigprodukten und Systemen für abgehängte Decken.Wir sind stolz darauf, Ihnen eine umfassende Auswahl an Baustoffen und Bauzubehör zu bieten, darunter Mauersteine, Trockenschüttungen und Glasbausteine. Alle unsere Produkte sind von höchster Qualität und zu wettbewerbsfähigen Preisen erhältlich.Besuchen Sie uns jetzt online und entdecken Sie unsere breite Palette an Baustoffen und Bauzubehör. Wir freuen uns darauf, Ihnen bei all Ihren Bauprojekten zu helfen."
-          },
-          {
-            "title": "Trockenausbau",
-            "text": "Der <a href=\"/kategorie/trockenausbau/\" title=\"Trockenausbau\">Trockenausbau</a> ist ein wichtiger Bestandteil bei der Innenrenovierung oder Neubau eines Hauses. Bei uns im Baustoffhaus finden Sie eine breite Auswahl an Produkten für den Trockenausbau, von Gipskartonplatten bis hin zu Zubehör für diese Platten. Unsere hochwertigen Produkte sorgen für eine schnelle und einfache Montage, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Trockenausbauprodukten."
-          },
-          {
-            "title": "Zubehör für Gipskartonplatten",
-            "text": "Gipskartonplatten sind ein wichtiger Bestandteil beim Trockenausbau. Damit Sie Ihre Projekte erfolgreich umsetzen können, bieten wir Ihnen eine breite Auswahl an <a href=\"/kategorie/zubehoer-fuer-gipskartonplatten/\" title=\"Zubehör für Gipskartonplatten\">Zubehör für Gipskartonplatten</a>. Unsere Produkte, wie beispielsweise Schrauben, Dübel, Eckprofile und vieles mehr, sorgen für eine sichere und langlebige Verbindung Ihrer Gipskartonplatten. Überzeugen Sie sich selbst von unserer großen Auswahl an Zubehör für Gipskartonplatten im Baustoffhaus."
-          },
-          {
-            "title": "Putz, Mörtel & Zement",
-            "text": "Putz, Mörtel und Zement sind wichtige Baustoffe bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Produkten für Ihre Projekte. Ob Sie einen neuen Anstrich benötigen oder Ihre Wände neu verputzen möchten, bei uns finden Sie das passende Material. Überzeugen Sie sich selbst von unserem großen Sortiment an Putz, Mörtel und Zement."
-          },
-          {
-            "title": "Trockenmörtel",
-            "text": "<a href=\"/kategorie/trockenmoertel/\" title=\"Trockenmörtel\">Trockenmörtel</a> ist ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Trockenmörtelprodukten für Ihre Projekte. Unsere Produkte sind einfach in der Verarbeitung und sorgen für eine robuste und langlebige Oberfläche. Überzeugen Sie sich selbst von unserem großen Sortiment an Trockenmörtel im Baustoffhaus."
-          },
-          {
-            "title": "Putze",
-            "text": "<a href=\"/kategorie/putze/\" title=\"Putze\">Putze</a> sind ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Putzprodukten für Ihre Projekte. Ob Sie einen neuen Anstrich benötigen oder Ihre Wände neu verputzen möchten, bei uns finden Sie das passende Material. Überzeugen Sie sich selbst von unserem großen Sortiment an Putzen im Baustoffhaus."
-          },
-          {
-            "title": "Gipskartonplatten",
-            "text": "<a href=\"/kategorie/gipskartonplatten/\" title=\"Gipskartonplatten\">Gipskartonplatten</a> sind ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Gipskartonplatten für Ihre Projekte. Unsere Platten sind einfach zu montieren und sorgen für eine robuste und langlebige Oberfläche. Überzeugen Sie sich selbst von unserem großen Sortiment an Gipskartonplatten im Baustoffhaus."
-          },
-          {
-            "title": "Ausgleichsmassen",
-            "text": "<a href=\"/kategorie/ausgleichsmassen/\" title=\"Ausgleichsmassen\">Ausgleichsmassen</a> sind ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Ausgleichsmassen für Ihre Projekte. Unsere Massen sorgen für eine gleichmäßige Oberfläche und eine robuste Basis für weitere Arbeiten. Überzeugen Sie sich selbst von unserem großen Sortiment an Ausgleichsmassen im Baustoffhaus."
-          },
-          {
-            "title": "Bauzubehör",
-            "text": "<a href=\"/kategorie/bauzubehoer/\" title=\"Bauzubehör\">Bauzubehör</a> ist wichtig für eine erfolgreiche Umsetzung Ihrer Projekte. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigem Bauzubehör für Ihre Renovierungs- oder Neubauprojekte. Unsere Produkte, wie beispielsweise Werkzeuge, Schutzkleidung und vieles mehr, sorgen für eine einfache und sichere Durchführung Ihrer Arbeiten. Überzeugen Sie sich selbst von unserem großen Sortiment an Bauzubehör im Baustoffhaus."
-          },
-          {
-            "title": "Baueimer & Mörtelkübel",
-            "text": "Baueimer und Mörtelkübel sind wichtige Helfer bei Ihren Renovierungs- oder Neubauprojekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Baueimern und Mörtelkübeln für Ihre Arbeiten. Unsere Eimer und Kübel sind robust und langlebig, damit Sie Ihre Projekte erfolgreich umsetzen können. Überzeugen Sie sich selbst von unserem großen Sortiment an Baueimern und Mörtelkübeln im Baustoffhaus."
-          },
-          {
-            "title": "Bedachungen & Dachrinnen",
-            "text": "Bedachungen und Dachrinnen sind wichtige Bauteile für jedes Dach. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Bedachungen und Dachrinnen für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich keine Sorgen um Ihr Dach machen müssen. Überzeugen Sie sich selbst von unserem großen Sortiment an Bedachungen und Dachrinnen im Baustoffhaus."
-          },
-          {
-            "title": "Bitumenbedachung",
-            "text": "<a href=\"/kategorie/bitumenbedachung/\" title=\"Bitumenbedachung\">Bitumenbedachung</a>en sind eine beliebte Wahl für Dächer. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Bitumenbedachungen für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich keine Sorgen um Ihr Dach machen müssen. Überzeugen Sie sich selbst von unserem großen Sortiment an Bitumenbedachungen im Baustoffhaus."
-          },
-          {
-            "title": "Steine & Schüttgüter",
-            "text": "Steine und Schüttgüter sind wichtige Baustoffe bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Steinen und Schüttgütern für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Steinen und Schüttgütern im Baustoffhaus."
-          },
-          {
-            "title": "Schüttgüter",
-            "text": "<a href=\"/kategorie/schuettgueter/\" title=\"Schüttgüter\">Schüttgüter</a> sind wichtige Baustoffe bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Schüttgütern für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Schüttgütern im Baustoffhaus."
-          },
-          {
-            "title": "Porenbetonsteine",
-            "text": "<a href=\"/kategorie/porenbetonsteine/\" title=\"Porenbetonsteine\">Porenbetonsteine</a> sind ein wichtiger Baustoff bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Porenbetonsteinen für Ihre Projekte. Unsere Steine sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Porenbetonsteinen im Baustoffhaus."
-          },
-          {
-            "title": "PU-Schäume",
-            "text": "<a href=\"/kategorie/pu-schaeume/\" title=\"PU-Schäume\">PU-Schäume</a> sind ein wichtiger Baustoff bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen PU-Schäumen für Ihre Projekte. Unsere Schäume sind einfach zu verarbeiten und sorgen für eine robuste und langlebige Oberfläche. Überzeugen Sie sich selbst von unserem großen Sortiment an PU-Schäumen im Baustoffhaus."
-          },
-          {
-            "title": "Dämmstoffe",
-            "text": "<a href=\"/kategorie/daemmstoffe/\" title=\"Dämmstoffe\">Dämmstoffe</a> sind wichtig für ein angenehmes Raumklima und eine Energieeinsparung. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Dämmstoffen für Ihre Projekte. Unsere Dämmstoffe sind effizient und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Dämmstoffen im Baustoffhaus."
-          },
-          {
-            "title": "Vollwärmeschutz-Systeme",
-            "text": "<a href=\"/kategorie/vollwaermeschutz-systeme/\" title=\"Vollwärmeschutz-Systeme\">Vollwärmeschutz-Systeme</a> sind wichtig für eine effiziente Energieeinsparung und ein angenehmes Raumklima. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Vollwärmeschutz-Systemen für Ihre Projekte. Unsere Systeme sind einfach zu installieren und effizient, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Vollwärmeschutz-Systemen im Baustoffhaus."
-          },
-          {
-            "title": "Zubehör für Gipsfaserplatten",
-            "text": "<a href=\"/kategorie/zubehoer-fuer-gipsfaserplatten/\" title=\"Zubehör für Gipsfaserplatten\">Zubehör für Gipsfaserplatten</a> ist wichtig für die Verarbeitung von Gipsfaserplatten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigem Zubehör für Gipsfaserplatten für Ihre Projekte. Unser Zubehör ist robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Zubehör für Gipsfaserplatten im Baustoffhaus."
-          },
-          {
-            "title": "Geschäumte Dämmstoffe",
-            "text": "<a href=\"/kategorie/geschaeumte-daemmstoffe/\" title=\"Geschäumte Dämmstoffe\">Geschäumte Dämmstoffe</a> sind eine effiziente Lösung für ein angenehmes Raumklima und eine Energieeinsparung. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen geschäumten Dämmstoffen für Ihre Projekte. Unsere Dämmstoffe sind leicht und effizient, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an geschäumten Dämmstoffen im Baustoffhaus."
-          },
-          {
-            "title": "Baufolien & Planen",
-            "text": "<a href=\"/kategorie/baufolien-planen/\" title=\"Baufolien & Planen\">Baufolien & Planen</a> sind wichtig für den Schutz Ihrer Baustelle. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Baufolien & Planen für Ihre Projekte. Unsere Folien & Planen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Baufolien & Planen im Baustoffhaus."
-          },
-          {
-            "title": "Putzträger",
-            "text": "<a href=\"/kategorie/putztraeger/\" title=\"Putzträger\">Putzträger</a> sind wichtig für die Verarbeitung von Putz. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Putzträgern für Ihre Projekte. Unsere Putzträger sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Putzträgern im Baustoffhaus."
-          },
-          {
-            "title": "Kunststoff-Dachrinnen",
-            "text": "<a href=\"/kategorie/kunststoff-dachrinnen/\" title=\"Kunststoff-Dachrinnen\">Kunststoff-Dachrinnen</a> sind eine langlebige und wartungsarme Lösung für Ihre Entwässerungsbedürfnisse. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Kunststoff-Dachrinnen für Ihre Projekte. Unsere Dachrinnen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Kunststoff-Dachrinnen im Baustoffhaus."
-          },
-          {
-            "title": "Zemente & Kalke",
-            "text": "<a href=\"/kategorie/zemente-kalke/\" title=\"Zemente & Kalke\">Zemente & Kalke</a> sind wichtig für viele Baustoffprojekte. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Zementen & Kalken für Ihre Projekte. Unsere Zemente & Kalke sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Zementen & Kalken im Baustoffhaus."
-          },
-          {
-            "title": "Entwässerung & Abdichtung",
-            "text": "<a href=\"/kategorie/entwaesserung-abdichtung/\" title=\"Entwässerung & Abdichtung\">Entwässerung & Abdichtung</a> sind wichtig für den Schutz Ihrer Baustelle. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Entwässerungs- & Abdichtungslösungen für Ihre Projekte. Unsere Entwässerungs- & Abdichtungslösungen sind robust und effizient, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Entwässerungs- & Abdichtungslösungen im Baustoffhaus."
-          },
-          {
-            "title": "Bauabdichtungen",
-            "text": "<a href=\"/kategorie/bauabdichtungen/\" title=\"Bauabdichtungen\">Bauabdichtungen</a> sind ein wichtiger Bestandteil jedes Bauprojekts. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Bauabdichtungen für Ihre Projekte. Unsere Bauabdichtungen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Bauabdichtungen im Baustoffhaus."
-          },
-          {
-            "title": "Kunststoffbedachung",
-            "text": "<a href=\"/kategorie/kunststoffbedachung/\" title=\"Kunststoffbedachung\">Kunststoffbedachung</a>en sind eine langlebige und wartungsarme Lösung für Ihre Bedachungsbedürfnisse. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Kunststoffbedachungen für Ihre Projekte. Unsere Kunststoffbedachungen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Kunststoffbedachungen im Baustoffhaus."
-          },
-          {
-            "title": "Außenleitern",
-            "text": "<a href=\"/kategorie/aussenleitern/\" title=\"Aussenleitern\">Aussenleitern</a> sind ein wichtiger Bestandteil jedes Bauprojekts. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Außenleitern für Ihre Projekte. Unsere Außenleitern sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Außenleitern im Baustoffhaus."
-          },
-          {
-            "title": "Metall-Dachrinnen",
-            "text": "Im Baustoffe Online-Shop von Baustoffhouse finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/metall-dachrinnen/\" title=\"Metall-Dachrinnen\">Metall-Dachrinnen</a>. Unsere Produkte zeichnen sich durch ihre Langlebigkeit und Robustheit aus und eignen sich perfekt für den Einsatz auf Dächern jeglicher Größe. Ob Sie eine kleine Garage oder ein großes Mehrfamilienhaus abdichten möchten, bei uns werden Sie fündig. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre neuen Metall-Dachrinnen."
-          },
-          {
-            "title": "Baugeräte & Baumaschinen",
-            "text": "Baustoffhouse bietet Ihnen ein umfassendes Sortiment an Baugeräten und Baumaschinen für alle Arten von Baustellen. Von Bohrmaschinen über Schaufelbagger bis hin zu Hebeanlagen – wir haben das richtige Equipment für Ihre Bedürfnisse. Unsere Produkte zeichnen sich durch ihre hohe Leistung und Zuverlässigkeit aus und sorgen dafür, dass Ihre Baustelle reibungslos verläuft. Überzeugen Sie sich selbst von unserer Auswahl und bestellen Sie noch heute Ihre neuen Baugeräte und Baumaschinen."
-          },
-          {
-            "title": "Mineralfaser Dämmstoffe",
-            "text": "Baustoffhouse ist Ihr zuverlässiger Partner für hochwertige <a href=\"/kategorie/mineralfaser-daemmstoffe/\" title=\"Mineralfaser Dämmstoffe\">Mineralfaser Dämmstoffe</a>. Unsere Produkte zeichnen sich durch ihre hervorragende Wärmedämmung aus und sorgen für ein angenehmes Wohnklima in Ihrem Zuhause. Ob Sie einen Neubau planen oder Ihr bestehendes Haus energetisch sanieren möchten – bei uns finden Sie die passenden Dämmstoffe. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre neuen Mineralfaser Dämmstoffe."
-          },
-          {
-            "title": "Drainage & Grundmauerschutz",
-            "text": "Unsere Kategorie <a href=\"/kategorie/drainage-grundmauerschutz/\" title=\"Drainage & Grundmauerschutz\">Drainage & Grundmauerschutz</a> bietet Ihnen eine breite Auswahl an Produkten, um Ihr Gebäude optimal vor Feuchtigkeit und Schäden durch Wasser zu schützen. Von Drainagerohren über Mauerschutzfolien bis hin zu Pumpen und Zubehör finden Sie hier alles, was Sie für eine professionelle Drainage benötigen. Vertrauen Sie auf hochwertige Materialien und erstklassige Verarbeitung, um eine langlebige und zuverlässige Lösung zu erhalten."
-          },
-          {
-            "title": "Gerüste",
-            "text": "Unsere Gerüstkategorie bietet Ihnen eine große Auswahl an Gerüstsystemen für jeden Einsatzbereich. Ob für den Innen- oder Außenbereich, ob für den privaten oder gewerblichen Gebrauch – wir haben das passende Gerüst für Sie. Alle <a href=\"/kategorie/gerueste/\" title=\"Gerüste\">Gerüste</a> sind stabil und sicher, und dank der einfachen Montage können Sie sie schnell und unkompliziert aufbauen. Überzeugen Sie sich selbst von unserem Angebot an Gerüsten in höchster Qualität."
-          },
-          {
-            "title": "KG-Rohre",
-            "text": "In unserer Kategorie <a href=\"/kategorie/kg-rohre/\" title=\"KG-Rohre\">KG-Rohre</a> finden Sie eine große Auswahl an Rohren für Ihre Abwasser- und Entwässerungsanlagen. Ob PVC, PE oder PP – wir bieten Ihnen hochwertige Materialien in verschiedenen Größen und Ausführungen, um Ihnen die passende Lösung für Ihr Projekt anzubieten. Dank der robusten Verarbeitung und der langlebigen Materialien sind unsere KG-Rohre ideal für den Einsatz im Außenbereich geeignet."
-          },
-          {
-            "title": "Bau- & Fliesenlegerplatten",
-            "text": "Unsere Kategorie <a href=\"/kategorie/bau-fliesenlegerplatten/\" title=\"Bau- & Fliesenlegerplatten\">Bau- & Fliesenlegerplatten</a> bietet Ihnen eine große Auswahl an hochwertigen und langlebigen Platten für den Einsatz im Bau- und Fliesenbereich. Unsere Produkte sind robust und widerstandsfähig gegenüber Feuchtigkeit und anderen Beanspruchungen. Entdecken Sie jetzt unser Angebot an Bau- & Fliesenlegerplatten und finden Sie die perfekte Lösung für Ihr nächstes Projekt."
-          },
-          {
-            "title": "Ständerwerk",
-            "text": "In unserer Kategorie <a href=\"/kategorie/staenderwerk/\" title=\"Ständerwerk\">Ständerwerk</a> finden Sie eine Vielzahl an Ständerwerk-Systemen für Ihre Baustellen. Unsere Produkte sind stabil, robust und einfach zu montieren. Ob für den Innen- oder Außenbereich, wir haben das richtige Ständerwerk für Sie. Entdecken Sie jetzt unser Angebot und finden Sie das passende System für Ihr nächstes Bauprojekt."
-          },
-          {
-            "title": "Dachbleche",
-            "text": "In unserer Kategorie <a href=\"/kategorie/dachbleche/\" title=\"Dachbleche\">Dachbleche</a> bieten wir Ihnen eine breite Auswahl an hochwertigen und langlebigen Dachblechen für den Einsatz auf Ihrem Dach. Unsere Produkte sind widerstandsfähig gegenüber Witterungseinflüssen und anderen Beanspruchungen. Entdecken Sie jetzt unser Angebot an Dachblechen und finden Sie die perfekte Lösung für Ihr nächstes Dachprojekt."
-          },
-          {
-            "title": "Bitumenflüssigprodukte",
-            "text": "Entdecken Sie unsere Auswahl an <a href=\"/kategorie/bitumenfluessigprodukte/\" title=\"Bitumenflüssigprodukte\">Bitumenflüssigprodukte</a>n bei Baustoffhouse. Unsere hochwertigen Bitumenflüssigprodukte sind ideal für jedes Bauprojekt. Ob Sie eine neue Dachabdichtung benötigen oder Ihre bestehende Abdichtung reparieren möchten, wir haben das richtige Produkt für Sie. Überzeugen Sie sich selbst von unserem umfangreichen Angebot und bestellen Sie noch heute."
-          },
-          {
-            "title": "Systeme für abgehängte Decken",
-            "text": "Baustoffhouse bietet eine große Auswahl an Systemen für abgehängte Decken. Unsere Systeme sind langlebig, robust und einfach zu installieren. Ob Sie ein neues System für ein Bauprojekt benötigen oder Ihr bestehendes System aufrüsten möchten, bei uns finden Sie das passende Produkt. Überzeugen Sie sich selbst von unseren hochwertigen Systemen und bestellen Sie noch heute."
-          },
-          {
-            "title": "Gipsfaserplatten",
-            "text": "Baustoffhouse bietet eine große Auswahl an <a href=\"/kategorie/gipsfaserplatten/\" title=\"Gipsfaserplatten\">Gipsfaserplatten</a>. Unsere Gipsfaserplatten sind robust, langlebig und einfach zu verarbeiten. Sie eignen sich ideal für den Einsatz in Wänden und Decken und bieten eine hervorragende Wärmedämmung. Überzeugen Sie sich selbst von unserem umfangreichen Angebot an Gipsfaserplatten und bestellen Sie noch heute."
-          },
-          {
-            "title": "Dämmstoffzubehör",
-            "text": "Im Baustoffhaus finden Sie alles, was Sie für die perfekte Dämmung benötigen. Unser Sortiment an <a href=\"/kategorie/daemmstoffzubehoer/\" title=\"Dämmstoffzubehör\">Dämmstoffzubehör</a> umfasst hochwertige Produkte wie Dämmstoffe, Kleber und Zubehörteile. Alle Produkte sind auf Langlebigkeit und Effizienz ausgelegt und bieten Ihnen maximale Leistung bei minimalem Aufwand. Besuchen Sie unseren Online-Shop und entdecken Sie das breite Angebot an Dämmstoffzubehör."
-          },
-          {
-            "title": "Baustahl & Baugitter",
-            "text": "Baustahl und Baugitter sind unverzichtbar für jedes Bauprojekt. Bei Baustoffhaus finden Sie eine große Auswahl an Baustahl- und Baugitterprodukten, die Ihnen Stabilität und Haltbarkeit garantieren. Unsere Baustahlprodukte sind aus hochwertigen Materialien hergestellt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt das umfangreiche Sortiment an Baustahl- und Baugitterprodukten im Baustoffhaus Online-Shop."
-          },
-          {
-            "title": "Mauersteine",
-            "text": "<a href=\"/kategorie/mauersteine/\" title=\"Mauersteine\">Mauersteine</a> sind ein wichtiger Bestandteil jedes Bauprojekts. Bei Baustoffhaus finden Sie eine breite Auswahl an Mauersteinen in verschiedenen Größen und Farben. Unsere Mauersteine sind aus hochwertigen Materialien hergestellt und bieten Ihnen Stabilität und Haltbarkeit. Entdecken Sie jetzt das umfangreiche Sortiment an Mauersteinen im Baustoffhaus Online-Shop und wählen Sie die perfekten Steine für Ihr Bauprojekt."
-          },
-          {
-            "title": "Trockenschüttungen",
-            "text": "Baustoffe für <a href=\"/kategorie/trockenschuettungen/\" title=\"Trockenschüttungen\">Trockenschüttungen</a> - BaustoffHouse bietet eine breite Palette an hochwertigen Trockenschüttungen für Ihre Bauprojekte. Ob für den Innen- oder Außenbereich, unsere Trockenschüttungen sind langlebig und einfach zu verarbeiten. Besuchen Sie unseren Online-Shop, um die besten Baustoffe für Ihr Projekt zu finden."
-          },
-          {
-            "title": "Glasbausteine",
-            "text": "Baustoffe für <a href=\"/kategorie/glasbausteine/\" title=\"Glasbausteine\">Glasbausteine</a> - BaustoffHouse hat eine umfassende Auswahl an hochwertigen Glasbausteinen für Ihre Bauprojekte. Ob für die Gestaltung von Wänden oder als Trennwand, unsere Glasbausteine bieten eine moderne Optik und sind langlebig und robust. Entdecken Sie jetzt unsere Auswahl und finden Sie die besten Baustoffe für Ihr Projekt."
-          },
-          {
-            "title": "Stürze",
-            "text": "Baustoffe für <a href=\"/kategorie/stuerze/\" title=\"Stürze\">Stürze</a> - BaustoffHouse bietet eine große Auswahl an hochwertigen Stürzen für Ihre Bauprojekte. Unsere Stürze sind langlebig und robust, und eignen sich perfekt für den Einsatz im Innen- und Außenbereich. Besuchen Sie jetzt unseren Online-Shop und finden Sie die besten Baustoffe für Ihr Projekt."
-          }
-        ]
-      }
+    "configIsReady": true,
+    "domain": "baustoffhouse.de",
+    "hostname": "https://www.baustoffhouse.de/",
+    "email": "baustoffhouse.de@surrealnetworks.io",
+    "organization": "baustoffhouse.de",
+    "logoText": "Baustoffhouse.de",
+    "title": "Baustoffe",
+    "subline": "Der Online Shop für Handwerker",
+    "companyAddress": "DRW Group GmbH, Nachbars Wiesenweg 55, 38820 Halberstadt, Germany",
+    "imageFolder": "/assets/images/images/",
+    "productUrl": "/produkt/",
+    "kategorieUrl": "/kategorie/",
+    "numberOfProductsOnStartpage": 18,
+    "numberMaximumProductsPerCategory": 100,
+    "numberOfRelevantProduct": 12,
+    "popularProducts": [
+        "6974505",
+        "7286941",
+        "6116990",
+        "6644694",
+        "5214523",
+        "2197853"
+    ],
+    "winnerProducts": [
+        "2353548",
+        "6494447",
+        "2197838"
+    ],
+    "featuredCategories": [
+        "Systeme für abgehängte Decken",
+        "Ständerwerk",
+        "Bau- & Fliesenlegerplatten",
+        "Entwässerung & Abdichtung",
+        "Kunststoffbedachung",
+        "Zubehör für Gipskartonplatten"
+    ],
+    "socialMediaAccounts": [],
+    "imageQuality": 90,
+    "checklist": [
+        "Material",
+        "Komfort",
+        "Funktion",
+        "Haltbarkeit"
+    ],
+    "seo": {
+        "htmlLang": "de",
+        "mainKeyword": "Baustoffe",
+        "featureText": "Herzlich Willkommen in unserem Shop! Bei uns finden Sie Baustoffe jeglicher Art. Wir haben Ihnen ein breites Sortiment an Produkten zusammengestellt. Dabei achten wir stets auf hohe Qualitätsstandards. Ob Mörtel, Putz, Zement, Betonsteine, Dämmstoffe oder andere ausgewählte Produkte, bei uns werden Sie fündig. Klicken Sie sich gerne durch unsere übersichtliche Darstellung der verschiedenen Kategorien!",
+        "index": {
+            "title": "Baustoffe für jeden Anwendungsbereich",
+            "metaDescription": "Zement ~ Mörtel ~ Putz ~ Gipskartonplatten ~ Steine & Schüttgut ~ Betonsteine ~ Dämmstoffe ~ Baufolien & Planen ~ Dachrinnen ~ Außenleitern ~ Bauzubehör",
+            "robots": "index, follow",
+            "seotext": {
+                "published": true,
+                "content": [
+                    {
+                        "title": "Willkommen bei Baustoff House",
+                        "text": "Baustoff House ist Ihr Online-Shop für hochwertige Baustoffe und Bauzubehör. Wir bieten Ihnen eine große Auswahl an Produkten für den Trockenausbau, darunter Zubehör für Gipskartonplatten, Putz, Mörtel und Zement, Trockenmörtel, Putze, Gipskartonplatten und Ausgleichsmassen. Unser Sortiment umfasst auch Bauzubehör wie Baueimer und Mörtelkübel, Bedachungen und Dachrinnen, Bitumenbedachung, Steine und Schüttgüter, Porenbetonsteine, PU-Schäume, Dämmstoffe, Vollwärmeschutz-Systeme und Zubehör für Gipsfaserplatten.Wir haben auch eine breite Palette an Geschäumten Dämmstoffen, Baufolien und Planen, Putzträgern, Kunststoff-Dachrinnen, Zementen und Kalke, Entwässerung und Abdichtung, Bauabdichtungen, Kunststoffbedachungen, Außenleitern, Metall-Dachrinnen, Baugeräten und Baumaschinen, Mineralfaser-Dämmstoffen, Drainage und Grundmauerschutz, Gerüsten, KG-Rohren, Bau- und Fliesenlegerplatten, Ständerwerk, Dachblechen, Bitumenflüssigprodukten und Systemen für abgehängte Decken.Wir sind stolz darauf, Ihnen eine umfassende Auswahl an Baustoffen und Bauzubehör zu bieten, darunter Mauersteine, Trockenschüttungen und Glasbausteine. Alle unsere Produkte sind von höchster Qualität und zu wettbewerbsfähigen Preisen erhältlich.Besuchen Sie uns jetzt online und entdecken Sie unsere breite Palette an Baustoffen und Bauzubehör. Wir freuen uns darauf, Ihnen bei all Ihren Bauprojekten zu helfen."
+                    },
+                    {
+                        "title": "Trockenausbau",
+                        "text": "Der <a href=\"/kategorie/trockenausbau/\" title=\"Trockenausbau\">Trockenausbau</a> ist ein wichtiger Bestandteil bei der Innenrenovierung oder Neubau eines Hauses. Bei uns im Baustoffhaus finden Sie eine breite Auswahl an Produkten für den Trockenausbau, von Gipskartonplatten bis hin zu Zubehör für diese Platten. Unsere hochwertigen Produkte sorgen für eine schnelle und einfache Montage, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Trockenausbauprodukten."
+                    },
+                    {
+                        "title": "Zubehör für Gipskartonplatten",
+                        "text": "Gipskartonplatten sind ein wichtiger Bestandteil beim Trockenausbau. Damit Sie Ihre Projekte erfolgreich umsetzen können, bieten wir Ihnen eine breite Auswahl an <a href=\"/kategorie/zubehoer-fuer-gipskartonplatten/\" title=\"Zubehör für Gipskartonplatten\">Zubehör für Gipskartonplatten</a>. Unsere Produkte, wie beispielsweise Schrauben, Dübel, Eckprofile und vieles mehr, sorgen für eine sichere und langlebige Verbindung Ihrer Gipskartonplatten. Überzeugen Sie sich selbst von unserer großen Auswahl an Zubehör für Gipskartonplatten im Baustoffhaus."
+                    },
+                    {
+                        "title": "Putz, Mörtel & Zement",
+                        "text": "Putz, Mörtel und Zement sind wichtige Baustoffe bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Produkten für Ihre Projekte. Ob Sie einen neuen Anstrich benötigen oder Ihre Wände neu verputzen möchten, bei uns finden Sie das passende Material. Überzeugen Sie sich selbst von unserem großen Sortiment an Putz, Mörtel und Zement."
+                    },
+                    {
+                        "title": "Trockenmörtel",
+                        "text": "<a href=\"/kategorie/trockenmoertel/\" title=\"Trockenmörtel\">Trockenmörtel</a> ist ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Trockenmörtelprodukten für Ihre Projekte. Unsere Produkte sind einfach in der Verarbeitung und sorgen für eine robuste und langlebige Oberfläche. Überzeugen Sie sich selbst von unserem großen Sortiment an Trockenmörtel im Baustoffhaus."
+                    },
+                    {
+                        "title": "Putze",
+                        "text": "<a href=\"/kategorie/putze/\" title=\"Putze\">Putze</a> sind ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Putzprodukten für Ihre Projekte. Ob Sie einen neuen Anstrich benötigen oder Ihre Wände neu verputzen möchten, bei uns finden Sie das passende Material. Überzeugen Sie sich selbst von unserem großen Sortiment an Putzen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Gipskartonplatten",
+                        "text": "<a href=\"/kategorie/gipskartonplatten/\" title=\"Gipskartonplatten\">Gipskartonplatten</a> sind ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Gipskartonplatten für Ihre Projekte. Unsere Platten sind einfach zu montieren und sorgen für eine robuste und langlebige Oberfläche. Überzeugen Sie sich selbst von unserem großen Sortiment an Gipskartonplatten im Baustoffhaus."
+                    },
+                    {
+                        "title": "Ausgleichsmassen",
+                        "text": "<a href=\"/kategorie/ausgleichsmassen/\" title=\"Ausgleichsmassen\">Ausgleichsmassen</a> sind ein wichtiger Baustoff bei der Gestaltung und Renovierung von Innenräumen. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Ausgleichsmassen für Ihre Projekte. Unsere Massen sorgen für eine gleichmäßige Oberfläche und eine robuste Basis für weitere Arbeiten. Überzeugen Sie sich selbst von unserem großen Sortiment an Ausgleichsmassen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Bauzubehör",
+                        "text": "<a href=\"/kategorie/bauzubehoer/\" title=\"Bauzubehör\">Bauzubehör</a> ist wichtig für eine erfolgreiche Umsetzung Ihrer Projekte. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigem Bauzubehör für Ihre Renovierungs- oder Neubauprojekte. Unsere Produkte, wie beispielsweise Werkzeuge, Schutzkleidung und vieles mehr, sorgen für eine einfache und sichere Durchführung Ihrer Arbeiten. Überzeugen Sie sich selbst von unserem großen Sortiment an Bauzubehör im Baustoffhaus."
+                    },
+                    {
+                        "title": "Baueimer & Mörtelkübel",
+                        "text": "Baueimer und Mörtelkübel sind wichtige Helfer bei Ihren Renovierungs- oder Neubauprojekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Baueimern und Mörtelkübeln für Ihre Arbeiten. Unsere Eimer und Kübel sind robust und langlebig, damit Sie Ihre Projekte erfolgreich umsetzen können. Überzeugen Sie sich selbst von unserem großen Sortiment an Baueimern und Mörtelkübeln im Baustoffhaus."
+                    },
+                    {
+                        "title": "Bedachungen & Dachrinnen",
+                        "text": "Bedachungen und Dachrinnen sind wichtige Bauteile für jedes Dach. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Bedachungen und Dachrinnen für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich keine Sorgen um Ihr Dach machen müssen. Überzeugen Sie sich selbst von unserem großen Sortiment an Bedachungen und Dachrinnen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Bitumenbedachung",
+                        "text": "<a href=\"/kategorie/bitumenbedachung/\" title=\"Bitumenbedachung\">Bitumenbedachung</a>en sind eine beliebte Wahl für Dächer. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Bitumenbedachungen für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich keine Sorgen um Ihr Dach machen müssen. Überzeugen Sie sich selbst von unserem großen Sortiment an Bitumenbedachungen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Steine & Schüttgüter",
+                        "text": "Steine und Schüttgüter sind wichtige Baustoffe bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Steinen und Schüttgütern für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Steinen und Schüttgütern im Baustoffhaus."
+                    },
+                    {
+                        "title": "Schüttgüter",
+                        "text": "<a href=\"/kategorie/schuettgueter/\" title=\"Schüttgüter\">Schüttgüter</a> sind wichtige Baustoffe bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Schüttgütern für Ihre Projekte. Unsere Produkte sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Schüttgütern im Baustoffhaus."
+                    },
+                    {
+                        "title": "Porenbetonsteine",
+                        "text": "<a href=\"/kategorie/porenbetonsteine/\" title=\"Porenbetonsteine\">Porenbetonsteine</a> sind ein wichtiger Baustoff bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Porenbetonsteinen für Ihre Projekte. Unsere Steine sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Porenbetonsteinen im Baustoffhaus."
+                    },
+                    {
+                        "title": "PU-Schäume",
+                        "text": "<a href=\"/kategorie/pu-schaeume/\" title=\"PU-Schäume\">PU-Schäume</a> sind ein wichtiger Baustoff bei vielen Projekten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen PU-Schäumen für Ihre Projekte. Unsere Schäume sind einfach zu verarbeiten und sorgen für eine robuste und langlebige Oberfläche. Überzeugen Sie sich selbst von unserem großen Sortiment an PU-Schäumen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Dämmstoffe",
+                        "text": "<a href=\"/kategorie/daemmstoffe/\" title=\"Dämmstoffe\">Dämmstoffe</a> sind wichtig für ein angenehmes Raumklima und eine Energieeinsparung. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Dämmstoffen für Ihre Projekte. Unsere Dämmstoffe sind effizient und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Dämmstoffen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Vollwärmeschutz-Systeme",
+                        "text": "<a href=\"/kategorie/vollwaermeschutz-systeme/\" title=\"Vollwärmeschutz-Systeme\">Vollwärmeschutz-Systeme</a> sind wichtig für eine effiziente Energieeinsparung und ein angenehmes Raumklima. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Vollwärmeschutz-Systemen für Ihre Projekte. Unsere Systeme sind einfach zu installieren und effizient, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Vollwärmeschutz-Systemen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Zubehör für Gipsfaserplatten",
+                        "text": "<a href=\"/kategorie/zubehoer-fuer-gipsfaserplatten/\" title=\"Zubehör für Gipsfaserplatten\">Zubehör für Gipsfaserplatten</a> ist wichtig für die Verarbeitung von Gipsfaserplatten. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigem Zubehör für Gipsfaserplatten für Ihre Projekte. Unser Zubehör ist robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Zubehör für Gipsfaserplatten im Baustoffhaus."
+                    },
+                    {
+                        "title": "Geschäumte Dämmstoffe",
+                        "text": "<a href=\"/kategorie/geschaeumte-daemmstoffe/\" title=\"Geschäumte Dämmstoffe\">Geschäumte Dämmstoffe</a> sind eine effiziente Lösung für ein angenehmes Raumklima und eine Energieeinsparung. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen geschäumten Dämmstoffen für Ihre Projekte. Unsere Dämmstoffe sind leicht und effizient, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an geschäumten Dämmstoffen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Baufolien & Planen",
+                        "text": "<a href=\"/kategorie/baufolien-planen/\" title=\"Baufolien & Planen\">Baufolien & Planen</a> sind wichtig für den Schutz Ihrer Baustelle. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Baufolien & Planen für Ihre Projekte. Unsere Folien & Planen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Baufolien & Planen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Putzträger",
+                        "text": "<a href=\"/kategorie/putztraeger/\" title=\"Putzträger\">Putzträger</a> sind wichtig für die Verarbeitung von Putz. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Putzträgern für Ihre Projekte. Unsere Putzträger sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Putzträgern im Baustoffhaus."
+                    },
+                    {
+                        "title": "Kunststoff-Dachrinnen",
+                        "text": "<a href=\"/kategorie/kunststoff-dachrinnen/\" title=\"Kunststoff-Dachrinnen\">Kunststoff-Dachrinnen</a> sind eine langlebige und wartungsarme Lösung für Ihre Entwässerungsbedürfnisse. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Kunststoff-Dachrinnen für Ihre Projekte. Unsere Dachrinnen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Kunststoff-Dachrinnen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Zemente & Kalke",
+                        "text": "<a href=\"/kategorie/zemente-kalke/\" title=\"Zemente & Kalke\">Zemente & Kalke</a> sind wichtig für viele Baustoffprojekte. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Zementen & Kalken für Ihre Projekte. Unsere Zemente & Kalke sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Zementen & Kalken im Baustoffhaus."
+                    },
+                    {
+                        "title": "Entwässerung & Abdichtung",
+                        "text": "<a href=\"/kategorie/entwaesserung-abdichtung/\" title=\"Entwässerung & Abdichtung\">Entwässerung & Abdichtung</a> sind wichtig für den Schutz Ihrer Baustelle. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Entwässerungs- & Abdichtungslösungen für Ihre Projekte. Unsere Entwässerungs- & Abdichtungslösungen sind robust und effizient, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Entwässerungs- & Abdichtungslösungen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Bauabdichtungen",
+                        "text": "<a href=\"/kategorie/bauabdichtungen/\" title=\"Bauabdichtungen\">Bauabdichtungen</a> sind ein wichtiger Bestandteil jedes Bauprojekts. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Bauabdichtungen für Ihre Projekte. Unsere Bauabdichtungen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Bauabdichtungen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Kunststoffbedachung",
+                        "text": "<a href=\"/kategorie/kunststoffbedachung/\" title=\"Kunststoffbedachung\">Kunststoffbedachung</a>en sind eine langlebige und wartungsarme Lösung für Ihre Bedachungsbedürfnisse. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Kunststoffbedachungen für Ihre Projekte. Unsere Kunststoffbedachungen sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Kunststoffbedachungen im Baustoffhaus."
+                    },
+                    {
+                        "title": "Außenleitern",
+                        "text": "<a href=\"/kategorie/aussenleitern/\" title=\"Aussenleitern\">Aussenleitern</a> sind ein wichtiger Bestandteil jedes Bauprojekts. Im Baustoffhaus finden Sie eine breite Auswahl an hochwertigen Außenleitern für Ihre Projekte. Unsere Außenleitern sind robust und langlebig, damit Sie sich um andere Dinge kümmern können. Überzeugen Sie sich selbst von unserem großen Sortiment an Außenleitern im Baustoffhaus."
+                    },
+                    {
+                        "title": "Metall-Dachrinnen",
+                        "text": "Im Baustoffe Online-Shop von Baustoffhouse finden Sie eine große Auswahl an hochwertigen <a href=\"/kategorie/metall-dachrinnen/\" title=\"Metall-Dachrinnen\">Metall-Dachrinnen</a>. Unsere Produkte zeichnen sich durch ihre Langlebigkeit und Robustheit aus und eignen sich perfekt für den Einsatz auf Dächern jeglicher Größe. Ob Sie eine kleine Garage oder ein großes Mehrfamilienhaus abdichten möchten, bei uns werden Sie fündig. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre neuen Metall-Dachrinnen."
+                    },
+                    {
+                        "title": "Baugeräte & Baumaschinen",
+                        "text": "Baustoffhouse bietet Ihnen ein umfassendes Sortiment an Baugeräten und Baumaschinen für alle Arten von Baustellen. Von Bohrmaschinen über Schaufelbagger bis hin zu Hebeanlagen – wir haben das richtige Equipment für Ihre Bedürfnisse. Unsere Produkte zeichnen sich durch ihre hohe Leistung und Zuverlässigkeit aus und sorgen dafür, dass Ihre Baustelle reibungslos verläuft. Überzeugen Sie sich selbst von unserer Auswahl und bestellen Sie noch heute Ihre neuen Baugeräte und Baumaschinen."
+                    },
+                    {
+                        "title": "Mineralfaser Dämmstoffe",
+                        "text": "Baustoffhouse ist Ihr zuverlässiger Partner für hochwertige <a href=\"/kategorie/mineralfaser-daemmstoffe/\" title=\"Mineralfaser Dämmstoffe\">Mineralfaser Dämmstoffe</a>. Unsere Produkte zeichnen sich durch ihre hervorragende Wärmedämmung aus und sorgen für ein angenehmes Wohnklima in Ihrem Zuhause. Ob Sie einen Neubau planen oder Ihr bestehendes Haus energetisch sanieren möchten – bei uns finden Sie die passenden Dämmstoffe. Überzeugen Sie sich selbst von unserer Qualität und bestellen Sie noch heute Ihre neuen Mineralfaser Dämmstoffe."
+                    },
+                    {
+                        "title": "Drainage & Grundmauerschutz",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/drainage-grundmauerschutz/\" title=\"Drainage & Grundmauerschutz\">Drainage & Grundmauerschutz</a> bietet Ihnen eine breite Auswahl an Produkten, um Ihr Gebäude optimal vor Feuchtigkeit und Schäden durch Wasser zu schützen. Von Drainagerohren über Mauerschutzfolien bis hin zu Pumpen und Zubehör finden Sie hier alles, was Sie für eine professionelle Drainage benötigen. Vertrauen Sie auf hochwertige Materialien und erstklassige Verarbeitung, um eine langlebige und zuverlässige Lösung zu erhalten."
+                    },
+                    {
+                        "title": "Gerüste",
+                        "text": "Unsere Gerüstkategorie bietet Ihnen eine große Auswahl an Gerüstsystemen für jeden Einsatzbereich. Ob für den Innen- oder Außenbereich, ob für den privaten oder gewerblichen Gebrauch – wir haben das passende Gerüst für Sie. Alle <a href=\"/kategorie/gerueste/\" title=\"Gerüste\">Gerüste</a> sind stabil und sicher, und dank der einfachen Montage können Sie sie schnell und unkompliziert aufbauen. Überzeugen Sie sich selbst von unserem Angebot an Gerüsten in höchster Qualität."
+                    },
+                    {
+                        "title": "KG-Rohre",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/kg-rohre/\" title=\"KG-Rohre\">KG-Rohre</a> finden Sie eine große Auswahl an Rohren für Ihre Abwasser- und Entwässerungsanlagen. Ob PVC, PE oder PP – wir bieten Ihnen hochwertige Materialien in verschiedenen Größen und Ausführungen, um Ihnen die passende Lösung für Ihr Projekt anzubieten. Dank der robusten Verarbeitung und der langlebigen Materialien sind unsere KG-Rohre ideal für den Einsatz im Außenbereich geeignet."
+                    },
+                    {
+                        "title": "Bau- & Fliesenlegerplatten",
+                        "text": "Unsere Kategorie <a href=\"/kategorie/bau-fliesenlegerplatten/\" title=\"Bau- & Fliesenlegerplatten\">Bau- & Fliesenlegerplatten</a> bietet Ihnen eine große Auswahl an hochwertigen und langlebigen Platten für den Einsatz im Bau- und Fliesenbereich. Unsere Produkte sind robust und widerstandsfähig gegenüber Feuchtigkeit und anderen Beanspruchungen. Entdecken Sie jetzt unser Angebot an Bau- & Fliesenlegerplatten und finden Sie die perfekte Lösung für Ihr nächstes Projekt."
+                    },
+                    {
+                        "title": "Ständerwerk",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/staenderwerk/\" title=\"Ständerwerk\">Ständerwerk</a> finden Sie eine Vielzahl an Ständerwerk-Systemen für Ihre Baustellen. Unsere Produkte sind stabil, robust und einfach zu montieren. Ob für den Innen- oder Außenbereich, wir haben das richtige Ständerwerk für Sie. Entdecken Sie jetzt unser Angebot und finden Sie das passende System für Ihr nächstes Bauprojekt."
+                    },
+                    {
+                        "title": "Dachbleche",
+                        "text": "In unserer Kategorie <a href=\"/kategorie/dachbleche/\" title=\"Dachbleche\">Dachbleche</a> bieten wir Ihnen eine breite Auswahl an hochwertigen und langlebigen Dachblechen für den Einsatz auf Ihrem Dach. Unsere Produkte sind widerstandsfähig gegenüber Witterungseinflüssen und anderen Beanspruchungen. Entdecken Sie jetzt unser Angebot an Dachblechen und finden Sie die perfekte Lösung für Ihr nächstes Dachprojekt."
+                    },
+                    {
+                        "title": "Bitumenflüssigprodukte",
+                        "text": "Entdecken Sie unsere Auswahl an <a href=\"/kategorie/bitumenfluessigprodukte/\" title=\"Bitumenflüssigprodukte\">Bitumenflüssigprodukte</a>n bei Baustoffhouse. Unsere hochwertigen Bitumenflüssigprodukte sind ideal für jedes Bauprojekt. Ob Sie eine neue Dachabdichtung benötigen oder Ihre bestehende Abdichtung reparieren möchten, wir haben das richtige Produkt für Sie. Überzeugen Sie sich selbst von unserem umfangreichen Angebot und bestellen Sie noch heute."
+                    },
+                    {
+                        "title": "Systeme für abgehängte Decken",
+                        "text": "Baustoffhouse bietet eine große Auswahl an Systemen für abgehängte Decken. Unsere Systeme sind langlebig, robust und einfach zu installieren. Ob Sie ein neues System für ein Bauprojekt benötigen oder Ihr bestehendes System aufrüsten möchten, bei uns finden Sie das passende Produkt. Überzeugen Sie sich selbst von unseren hochwertigen Systemen und bestellen Sie noch heute."
+                    },
+                    {
+                        "title": "Gipsfaserplatten",
+                        "text": "Baustoffhouse bietet eine große Auswahl an <a href=\"/kategorie/gipsfaserplatten/\" title=\"Gipsfaserplatten\">Gipsfaserplatten</a>. Unsere Gipsfaserplatten sind robust, langlebig und einfach zu verarbeiten. Sie eignen sich ideal für den Einsatz in Wänden und Decken und bieten eine hervorragende Wärmedämmung. Überzeugen Sie sich selbst von unserem umfangreichen Angebot an Gipsfaserplatten und bestellen Sie noch heute."
+                    },
+                    {
+                        "title": "Dämmstoffzubehör",
+                        "text": "Im Baustoffhaus finden Sie alles, was Sie für die perfekte Dämmung benötigen. Unser Sortiment an <a href=\"/kategorie/daemmstoffzubehoer/\" title=\"Dämmstoffzubehör\">Dämmstoffzubehör</a> umfasst hochwertige Produkte wie Dämmstoffe, Kleber und Zubehörteile. Alle Produkte sind auf Langlebigkeit und Effizienz ausgelegt und bieten Ihnen maximale Leistung bei minimalem Aufwand. Besuchen Sie unseren Online-Shop und entdecken Sie das breite Angebot an Dämmstoffzubehör."
+                    },
+                    {
+                        "title": "Baustahl & Baugitter",
+                        "text": "Baustahl und Baugitter sind unverzichtbar für jedes Bauprojekt. Bei Baustoffhaus finden Sie eine große Auswahl an Baustahl- und Baugitterprodukten, die Ihnen Stabilität und Haltbarkeit garantieren. Unsere Baustahlprodukte sind aus hochwertigen Materialien hergestellt und bieten Ihnen eine lange Lebensdauer. Entdecken Sie jetzt das umfangreiche Sortiment an Baustahl- und Baugitterprodukten im Baustoffhaus Online-Shop."
+                    },
+                    {
+                        "title": "Mauersteine",
+                        "text": "<a href=\"/kategorie/mauersteine/\" title=\"Mauersteine\">Mauersteine</a> sind ein wichtiger Bestandteil jedes Bauprojekts. Bei Baustoffhaus finden Sie eine breite Auswahl an Mauersteinen in verschiedenen Größen und Farben. Unsere Mauersteine sind aus hochwertigen Materialien hergestellt und bieten Ihnen Stabilität und Haltbarkeit. Entdecken Sie jetzt das umfangreiche Sortiment an Mauersteinen im Baustoffhaus Online-Shop und wählen Sie die perfekten Steine für Ihr Bauprojekt."
+                    },
+                    {
+                        "title": "Trockenschüttungen",
+                        "text": "Baustoffe für <a href=\"/kategorie/trockenschuettungen/\" title=\"Trockenschüttungen\">Trockenschüttungen</a> - BaustoffHouse bietet eine breite Palette an hochwertigen Trockenschüttungen für Ihre Bauprojekte. Ob für den Innen- oder Außenbereich, unsere Trockenschüttungen sind langlebig und einfach zu verarbeiten. Besuchen Sie unseren Online-Shop, um die besten Baustoffe für Ihr Projekt zu finden."
+                    },
+                    {
+                        "title": "Glasbausteine",
+                        "text": "Baustoffe für <a href=\"/kategorie/glasbausteine/\" title=\"Glasbausteine\">Glasbausteine</a> - BaustoffHouse hat eine umfassende Auswahl an hochwertigen Glasbausteinen für Ihre Bauprojekte. Ob für die Gestaltung von Wänden oder als Trennwand, unsere Glasbausteine bieten eine moderne Optik und sind langlebig und robust. Entdecken Sie jetzt unsere Auswahl und finden Sie die besten Baustoffe für Ihr Projekt."
+                    },
+                    {
+                        "title": "Stürze",
+                        "text": "Baustoffe für <a href=\"/kategorie/stuerze/\" title=\"Stürze\">Stürze</a> - BaustoffHouse bietet eine große Auswahl an hochwertigen Stürzen für Ihre Bauprojekte. Unsere Stürze sind langlebig und robust, und eignen sich perfekt für den Einsatz im Innen- und Außenbereich. Besuchen Sie jetzt unseren Online-Shop und finden Sie die besten Baustoffe für Ihr Projekt."
+                    }
+                ]
+            }
+        },
+        "shop": {
+            "title": "Der Online Shop für Baustoffe",
+            "metaDescription": "Baustoffe wie: Zement, Mörtel, Putz, Dämmstoffe, Baufolien & Planen uvm. günstig kaufen | einfach & bequem zu Ihnen nach Hause | schnelle Lieferung ",
+            "robots": "index, follow"
+        },
+        "hersteller": {
+            "title": "Baustoffe verschiedener Hersteller ",
+            "metaDescription": "Der Spezialist für Baustoffe | Hochwertige Markenprodukte zum günstigen Preis von Marken wie: Fermacell, Knauf, Hymer, Fuchs Design, MEM uvm. ",
+            "robots": "index, follow"
+        }
     },
-    "shop": {
-      "title": "Der Online Shop für Baustoffe",
-      "metaDescription": "Baustoffe wie: Zement, Mörtel, Putz, Dämmstoffe, Baufolien & Planen uvm. günstig kaufen | einfach & bequem zu Ihnen nach Hause | schnelle Lieferung ",
-      "robots": "index, follow"
-    },
-    "hersteller": {
-      "title": "Baustoffe verschiedener Hersteller ",
-      "metaDescription": "Der Spezialist für Baustoffe | Hochwertige Markenprodukte zum günstigen Preis von Marken wie: Fermacell, Knauf, Hymer, Fuchs Design, MEM uvm. ",
-      "robots": "index, follow"
-    }
-  },
-  "productSeo": {
-    "defaultTitle": "$PRODUKT - Top Produkte zu Top Preisen",
-    "defaultMetaDescription": "$PRODUKT von $HERSTELLER | Hochwertige Produkte einfach online kaufen | Weitere tolle Produkte aus der Kategorie $KATEGORIE",
-    "defaultRobots": "index, follow",
-    "products": [
-      {
-        "sku": "5637909794",
-        "name": "Ortovox PALA PANTS Kletterhose",
-        "seo": {
-          "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
-          "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
-          "robots": "index, follow"
-        }
-      },
-      {
-        "sku": "2353548",
-        "seo": {
-          "texts": [
+    "productSeo": {
+        "defaultTitle": "$PRODUKT - Top Produkte zu Top Preisen",
+        "defaultMetaDescription": "$PRODUKT von $HERSTELLER | Hochwertige Produkte einfach online kaufen | Weitere tolle Produkte aus der Kategorie $KATEGORIE",
+        "defaultRobots": "index, follow",
+        "products": [
             {
-              "title": "CW-Profil 50 mm von Rigips",
-              "text": "<p class=\"justify\">Das CW-Profil 50 mm von Rigips ist ein hochwertiges Produkt aus dem Bereich Ständerwerk und Trockenausbau. Es eignet sich hervorragend für die Montage von Metallständer-Trennwänden in Verbindung mit UW-Profilen. Als Teil des vielfältigen Rigips-Sortiments können Sie sich bei diesem Produkt auf hohe Qualität und Langlebigkeit verlassen.</p><p class=\"justify\">Das CW-Profil 50 mm ist ideal für nichttragende Wände im Innenbereich und kann bei Trennwänden einen Feuerschutz bis F 90 bieten. Die Anwendungsbereiche des Profils sind vielfältig und reichen von Metallkonstruktionen für Vorwandinstallationen über Installationswände und Vorsatzschalen bis hin zu Drempeln. Einfach- und Doppelständerwerke können mit diesem CW-Profil ebenfalls realisiert werden.</p><p class=\"justify\">Die Maße des Rigips CW-Profils betragen 50 mm, wobei es in verschiedenen Längen erhältlich ist, um Ihren individuellen Bedürfnissen und Anforderungen gerecht zu werden. Mit einer hohen Anzahl an positiven Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen zeigt sich, dass dieses Produkt den Anforderungen der Kunden entspricht und bei zahlreichen Projekten erfolgreich eingesetzt wurde.</p><p class=\"justify\">Als Teil der Produktkategorie Baustoffe und Bauen punktet das Rigips CW-Profil 50 mm mit einem attraktiven Preis und einer großen Verfügbarkeit. Bei einem Preis von 7,25 Euro bietet es ein hervorragendes Preis-Leistungs-Verhältnis. Ob für Heimwerker oder Profis, das Rigips CW-Profil 50 mm bietet Ihnen alles, was Sie für ein erfolgreiches Bauprojekt benötigen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6494447",
-        "seo": {
-          "texts": [
-            {
-              "title": "Qboard Bauplatte 1200 mm x 600 mm x 10 mm - Die perfekte Lösung für Trockenausbau und Renovierung",
-              "text": "<p class=\"justify\">Qboard ist eine renommierte Marke, die sich auf die Herstellung von hochwertigen Bau- und Fliesenlegerplatten spezialisiert hat. Mit der Qboard Bauplatte 1200 mm x 600 mm x 10 mm erhalten Sie ein vielseitiges und langlebiges Produkt, das sich ideal für Trockenausbau und Renovierung von Wand- und Bodenflächen eignet. Die Bauplatte ist wärmedämmend, wasserfest und leicht zu verarbeiten, was sie zum perfekten Partner für den kreativen Innenausbau macht.</p><p class=\"justify\">Die Qboard Bauplatte zeichnet sich durch ihre erstklassige Funktionalität und ansprechendes Design aus. Sie ist sehr leicht und dennoch stabil und widerstandsfähig, sodass sie auch für hochbeanspruchte Bereiche wie Badezimmer oder Küchen geeignet ist. Die wärmedämmenden Eigenschaften sorgen für ein angenehmes Raumklima und helfen, Energiekosten zu sparen. Darüber hinaus sind die Bauplatten schnell und unkompliziert zu verarbeiten – ein großer Vorteil für Heimwerker und Profis gleichermaßen.</p><p class=\"justify\">Die einfache Verarbeitung der Qboard Bauplatte 1200 mm x 600 mm x 10 mm ermöglicht die Montage sowohl auf Massiv- als auch auf Trockenbauwänden. Durch die Abmessungen können im nötigen Fall Platten zugeschnitten, gereiht oder passgenau geklebt werden. Ihre Wasserfestigkeit macht sie zur optimalen Wahl für Feuchträume wie Bäder und Küchen, denn diese verhindert das Eindringen von Feuchtigkeit und verhindert so die Bildung von Schimmel und anderen Feuchtigkeitsschäden.</p><p class=\"justify\">Die Qboard Bauplatte 1200 mm x 600 mm x 10 mm erhielt zahlreiche positive Bewertungen und eine hohe Sternebewertung von zufriedenen Kunden. Nutzen auch Sie die Vorteile und Qualität dieser Bauplatten für Ihre Renovierung oder Trockenausbau-Projekte. Mit Qboard treffen Sie eine Entscheidung für Langlebigkeit, Funktionalität und Ästhetik.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2197838",
-        "seo": {
-          "texts": [
-            {
-              "title": "Bims Vollstein V4 5 DF 30 cm x 24 cm x 11,5 cm von Sonstige",
-              "text": "<p class=\"justify\">Der Bims Vollstein V4 5 DF 30 cm x 24 cm x 11,5 cm der Marke Sonstige ist ein idealer Baustoff für nichttragende Wände im Innenbereich. Dank seiner hervorragenden Wärmeleitfähigkeit und leichten Verarbeitung ist er besonders gut für Bauvorhaben geeignet, bei denen eine hohe Energieeffizienz und Komfort im Vordergrund stehen. Die Kombination aus Langlebigkeit, Festigkeit und Umweltfreundlichkeit macht diesen Bimsstein zu einer idealen Wahl für nachhaltige Bauprojekte.</p><p class=\"justify\">Bimssteine sind als baubiologisch unbedenklich einzustufen, da sie ein natürliches Material sind, das keine Schadstoffe abgibt und sich problemlos recyclen lässt. Die Verwendung von Bimssteinen ist nicht nur umweltfreundlich, sondern bietet auch Vorteile bei der Verarbeitung. Sie sind leicht, einfach zu schneiden und haben eine gute Haftung an Mörtel. Dadurch lassen sie sich schnell und einfach verarbeiten, was Zeit und Geld spart.</p><p class=\"justify\">Dieser Bims Vollstein ist ideal für den Einsatz in Mauerwerksarbeiten und eignet sich besonders für den Bereich Steine & Schüttgüter. Die Kategorie Mauersteine umfasst eine Vielzahl verschiedener Produkte für verschiedene Anwendungen, dieses Produkt sticht durch sein optimales Preis-Leistungs-Verhältnis hervor und ist damit eine ausgezeichnete Wahl für Ihr nächstes Bauvorhaben.</p><p class=\"justify\">Die Abmessungen von 30 cm x 24 cm x 11,5 cm bieten Flexibilität bei der Gestaltung Ihres Bauprojekts und gewährleisten gleichzeitig, dass der fertige Bims Vollstein sowohl stabil als auch langlebig ist. Die GTIN13-Nummern 4010499312344, 4251234601945 und 4010499312092 bestätigen die Qualität und Zuverlässigkeit dieses Baustoffs.</p><p class=\"justify\">Kurz gesagt, der Bims Vollstein V4 5 DF 30 cm x 24 cm x 11,5 cm von Sonstige ist eine hervorragende Option für die Erstellung von nichttragenden Wänden im Innenbereich. Seine Robustheit, Umweltfreundlichkeit und einfache Handhabung gewährleisten ein erfolgreiches, nachhaltiges Bauprojekt.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2971018",
-        "seo": {
-          "texts": [
-            {
-              "title": "Sonstige Pfosten- und Fundamentbeton PF25",
-              "text": "<p class=\"justify\">Der Sonstige Pfosten- und Fundamentbeton PF25 ist ein hochwertiger, zementgebundener Werktrockenmörtel, der für verschiedenste Anwendungen im Bereich des Bauens und der Baustoffe geeignet ist. Mit der Artikelnummer 2971018 und der GTIN 4005813947050 lässt sich dieses Produkt eindeutig identifizieren und ist in der Kategorie Trockenmörtel zu finden.</p><p class=\"justify\">Der Pfosten- und Fundamentbeton PF25 eignet sich hervorragend für das Herstellen von kleineren Punkt-, Streifen- und Flächenfundamenten, Randsteinfundamenten und Betonsockeln. Des Weiteren kann er für Befestigungsarbeiten und Betonreparaturen eingesetzt werden. Dieser Beton zeichnet sich durch seine Frostbeständigkeit und leichte Verarbeitung aus, was ihn zu einem idealen Baustoff für zahlreiche Projekte macht.</p><p class=\"justify\">Dank seiner hohen Belastbarkeit eignet sich der Pfosten- und Fundamentbeton PF25 für den Einsatz unter anspruchsvollen Bedingungen und gewährleistet eine langfristige Stabilität der erstellten Bauwerke. Mit einem Preis von 3,49 Euro pro Einheit ist dieser Beton eine kosteneffiziente Möglichkeit, professionelle Ergebnisse zu erzielen.</p><p class=\"justify\">Der Sonstige Pfosten- und Fundamentbeton PF25 hat eine hervorragende Kundenbewertung von 5 Sternen und 218 Rezensionen erhalten, was seine Qualität und Zuverlässigkeit untermauert. Vertrauen auch Sie auf diesen bewährten Baustoff und setzen Sie ihn für Ihre Bauprojekte ein.</p><p class=\"justify\">In unseren verschiedenen Kategorien wie Startseite, Bauen, Baustoffe, Putz, Mörtel & Zement und Trockenmörtel bieten wir weitere hochwertige Produkte an, die Sie bei der Planung und Durchführung Ihrer Bauprojekte unterstützen. Entdecken Sie unser vielseitiges Angebot und finden Sie den passenden Baustoff für Ihre individuellen Anforderungen!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "7369374",
-        "seo": {
-          "texts": [
-            {
-              "title": "VeroBoard® Rapid Leichtbauplatte 240 x 120 cm - Ideale Lösung für Trockenbau",
-              "text": "<p class=\"justify\">Die VeroBoard® Rapid Leichtbauplatte 240 x 120 cm ist die perfekte Wahl für alle, die im Bereich Trockenausbau, Innenausbau und Sanierung tätig sind. Diese innovative Leichtbauplatte, hergestellt von der renommierten Marke VeroBoard® Rapid, bietet zahlreiche Vorteile für eine Vielzahl von Anwendungen. Mit einer Größe von 240 x 120 cm und einem Gewicht von nur 5 kg/m² ist sie leicht, einfach zu handhaben und ideal für über-Kopfarbeiten an Decken oder Dachgeschossausbau geeignet.</p><p class=\"justify\">Die VeroBoard® Rapid Leichtbauplatte besteht zu 96 % aus recyceltem Altglas (Blähglas), was sie zu einer umweltfreundlichen und nachhaltigen Option für Bau- und Fliesenlegerplatten macht. Zudem ist die Platte schadstofffrei und feuchteregulierend, was für ein angenehmes Raumklima sorgt und die Oberflächentemperatur von kühlen Außenwänden erhöht. Damit ist sie auch für Feuchträume wie Bäder bestens geeignet.</p><p class=\"justify\">Die Montage der VeroBoard® Rapid Leichtbauplatte ist einfach und unkompliziert. Sie kann auf Holz- oder Metallunterkonstruktionen montiert oder direkt auf Mauerwerk verklebt werden. Fugen werden mit einem selbstklebenden Fugenband abgedeckt. Anschließend kann nahezu jede Oberfläche nach individuellen Wünschen aufgebracht werden, beispielsweise Putz, Fliesen oder Tapete.</p><p class=\"justify\">Mit der GTIN13: 4260400210027 weist die VeroBoard® Rapid Leichtbauplatte eine hohe Qualität auf und hat bereits zahlreiche zufriedene Kunden im Bereich Trockenausbau überzeugt. Die durchschnittliche Bewertung von 5 Sternen bei 489 Rezensionen spricht für die Zufriedenheit der Kunden und ihre hohe Qualität. Die VeroBoard® Rapid Leichtbauplatte eignet sich perfekt für vielfältige Anwendungen und ist somit eine hervorragende Wahl für alle, die Wert auf Qualität, Nachhaltigkeit und Effizienz legen.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2197820",
-        "seo": {
-          "texts": [
-            {
-              "title": "Bims Vollstein V4 3 DF 24 cm x 17,5 cm x 11,3 cm",
-              "text": "<p class=\"justify\">Der Bims Vollstein V4 3 DF ist ein hochwertiger Mauerstein der Marke Sonstige und eignet sich hervorragend für nichttragende Wände im Innenbereich. Die Maße des Steins betragen 24 cm x 17,5 cm x 11,3 cm und erfüllen damit die Anforderungen für stabile und langlebige Baukonstruktionen. Eine seiner herausragenden Eigenschaften ist die gute Wärmeleitfähigkeit, die zu einem verbesserten Raumklima beiträgt.</p><p class=\"justify\">Die leichte Verarbeitung und das biologisch unbedenkliche Material sind weitere Vorteile dieses Bimssteins. Er ist sowohl für Profis als auch für Heimwerker einfach zu handhaben und ermöglicht ein zügiges und effizientes Arbeiten. Durch seine Eigenschaften trägt der Bims Vollstein zur Schaffung eines angenehmen und gesunden Wohnraums bei.</p><p class=\"justify\">Die Anlieferung des Bims Vollsteins erfolgt in der Regel durch einen LKW mit Mitnahmestapler oder Ladebordwand. Bitte stellen Sie sicher, dass die Zufahrtsmöglichkeit für Sattelzüge gegeben ist und dass der Empfänger oder eine beauftragte Person bei der Anlieferung anwesend ist, um eine zügige Entladung zu ermöglichen. Beachten Sie, dass die Entladung auf einem ebenen, festen Untergrund frei Bordsteinkante erfolgt. Es erfolgt keine Inselbelieferung.</p><p class=\"justify\">Für das Bims Vollstein V4 3 DF 24 cm x 17,5 cm x 11,3 cm können Sie von einer hohen Kundenzufriedenheit ausgehen. Mit einer durchschnittlichen Bewertung von 4 Sternen und über 462 Rezensionen sprechen die Zahlen für sich. Vertrauen Sie auf die Qualität von Sonstige Mauersteinen und erreichen Sie mit dem Bims Vollstein V4 3 DF hervorragende Ergebnisse bei Ihren Bauvorhaben.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8613838",
-        "seo": {
-          "texts": [
-            {
-              "title": "Bodenausgleichsmasse Die Dünne 1 - 10 mm von Sonstige",
-              "text": "<p class=\"justify\">Die Bodenausgleichsmasse Die Dünne 1 - 10 mm ist ein hochwertiges Produkt der Marke Sonstige, das sich ideal zum Glätten, Spachteln, Ausgleichen und Nivellieren von Unebenheiten eignet. Mit einer GTIN13 von 8022452365775 ist diese Ausgleichsmasse eine hervorragende Wahl für Projekte im Bereich Bauen, Baustoffe, Putz, Mörtel und Zement.</p><p class=\"justify\">Dieses Produkt ist in der Kategorie \\\"Ausgleichsmassen\\\" einsetzbar und kann in einer Schichtdicke von 1 bis 10 mm aufgetragen werden. Die schnelle Aushärtung und die einfache Verarbeitung sorgen für zufriedenstellende Ergebnisse bei unterschiedlichsten Anwendungsbereichen. Die leichte Handhabung ermöglicht Anwendern ein effizientes und sauberes Arbeiten ganz ohne Fachkenntnisse.</p><p class=\"justify\">Die Bodenausgleichsmasse Die Dünne 1 - 10 mm wird in einem praktischen, wiederverschließbaren Gebinde geliefert, das die Lagerung und den Transport erleichtert. Die hohe Qualität des Produkts wird durch zahlreiche positive Bewertungen – 303 Rezensionen bei einem durchschnittlichen Nutzer-Rating von 5 Sternen – bestätigt.</p><p class=\"justify\">Egal, ob Sie Ihrem Zuhause einen frischen Look verpassen möchten oder bei einem Neubauprojekt eine ebene und glatte Bodenfläche benötigen – die Bodenausgleichsmasse Die Dünne 1 - 10 mm ist die perfekte Lösung für Ihre Anforderungen. Entscheiden Sie sich für dieses Produkt und profitieren Sie von der hohen Qualität und der Zuverlässigkeit der Marke Sonstige. Ganz gleich, ob Sie ein Profi oder ein Heimwerker sind, die Bodenausgleichsmasse Die Dünne 1 - 10 mm ist die ideale Wahl für jeden Bauherrn, der Wert auf ein hervorragendes Preis-Leistungs-Verhältnis legt.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "2197846",
-        "seo": {
-          "texts": [
-            {
-              "title": "Bims Bauplatte V2 8 DF 49,3 cm x 24 cm x 11,5 cm von Sonstige",
-              "text": "<p class=\"justify\">Die Bims Bauplatte V2 8 DF 49,3 cm x 24 cm x 11,5 cm ist ein hochwertiger Mauerbaustoff der Marke Sonstige, der sich ideal für die Errichtung von robusten Wänden eignet. Dieser leichte und langlebige Baustoff bietet ein vielseitiges Einsatzspektrum und ist eine erstklassige Wahl für effiziente und umweltverträgliche Bauvorhaben. Die hohe Wärmedämmung und die gute Wärmeleitfähigkeit zeichnen diese Bauplatte besonders aus.</p><p class=\"justify\">Bims ist ein natürliches, baubiologisch unbedenkliches Baumaterial, das sich leicht verarbeiten lässt. Es ermöglicht eine schnelle und effiziente Verarbeitung und sorgt zugleich für eine angenehme Raumtemperatur. Die Bims Bauplatte V2 8 DF hat eine Größe von 49,3 cm x 24 cm x 11,5 cm und ist in der Kategorie Mauersteine zu finden. Sie gehört zu den Baustoffen, die im Bereich von Steinen und Schüttgütern zum Einsatz kommen.</p><p class=\"justify\">Die Platte wird mit der GTIN13 4010499312146, 4010499312351, 4251234601891 gekennzeichnet und hat die SKU-Nummer 2197846. Sie verfügt über ein ansprechendes Design und ist mit einer langlebigen Oberfläche ausgestattet. Mit einer Breite von 1500 mm, einer Höhe von 1500 mm und einer Gewicht von 2,79 kg ist die Bims Bauplatte V2 8 DF leicht, kompakt und einfach zu handhaben.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 4 Sternen und insgesamt 318 Rezensionen hat diese Bauplatte bewiesen, dass sie ein ausgezeichnetes Preis-Leistungs-Verhältnis bietet und den hohen Qualitätsanforderungen der Kunden entspricht. Entdecken Sie die vielseitigen Einsatzmöglichkeiten der Bims Bauplatte V2 8 DF 49,3 cm x 24 cm x 11,5 cm und setzen Sie neue Maßstäbe bei Ihren Bauprojekten.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6307904",
-        "seo": {
-          "texts": [
-            {
-              "title": "EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert T x B x H: 60 cm x 22,5 cm x 12 cm",
-              "text": "<p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert bringt ein modernes und klassisches Design in Ihren Garten. Mit seinen Maßen von 60 cm Tiefe, 22,5 cm Breite und 12 cm Höhe ist dieser Mauerstein vielseitig einsetzbar und eignet sich hervorragend für verschiedene Gartenprojekte wie Gartenmauern, Beeteinfassungen, Abgrenzungen oder Hangabfang. Das ansprechende Design in Grau-Anthrazit-nuanciert passt zu jeder Gartengestaltung und verleiht Ihrem Außenbereich eine zeitlose und elegante Optik.</p><p class=\"justify\">Die Marke EHL steht für Qualität und Langlebigkeit. Dieser Mauerstein ist aus hochwertigen Materialien gefertigt und bietet eine solide Breite, die für nahezu jedes Gartenprojekt geeignet ist. Zudem verfügt der EHL Maxi-Mauerstein Anzio über eine geradlinige Optik, wie auch auf den Produktbildern zu sehen ist. Mit einer Bewertung von 4 Sternen und über 455 Rezensionen können Sie sicher sein, dass Sie ein hochwertiges und zuverlässiges Produkt erhalten.</p><p class=\"justify\">Um den EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert perfekt in Ihren Garten zu integrieren, können Sie ihn in Kombination mit anderen Steinen und Schüttgütern verwenden, um ein harmonisches Gesamtbild zu erreichen. Gestalten Sie beispielsweise eine attraktive Gartenmauer oder eine ansprechende Beeteinfassung, die durch das nuancierte Farbspiel in Grau-Anthrazit immer wieder neue Akzente setzt. Egal für welches Projekt Sie die Mauersteine nutzen, sie werden mit Sicherheit Ihr Eigenheim und Ihren Garten aufwerten.</p><p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert T x B x H: 60 cm x 22,5 cm x 12 cm ist eine ausgezeichnete Wahl für Ihr nächstes Gartenprojekt. Investieren Sie in ein Produkt, das nicht nur optisch ansprechend ist, sondern auch Langlebigkeit bietet. Schaffen Sie einen einzigartigen Außenbereich, der Ihre Gäste beeindrucken wird und Ihnen viele Jahre Freude bereitet.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "9462581",
-        "seo": {
-          "texts": [
-            {
-              "title": "CMI Bodenspachtelmasse Grau 20 kg - Perfekt für Ihren Innenbereich",
-              "text": "<p class=\"justify\">Die CMI Bodenspachtelmasse Grau 20 kg ist eine hochwertige, selbstverlaufende Spachtelmasse, die sich hervorragend für den Einsatz im Innenbereich eignet. Sie gehört zur Kategorie der Ausgleichsmassen und ist sowohl für Profis als auch für Heimwerker geeignet. Das Produkt aus dem renommierten Hause CMI ist für Schichtdicken von 1 mm bis 10 mm konzipiert. Dadurch können selbst kleinste Unebenheiten problemlos ausgeglichen werden.</p><p class=\"justify\">Besonders hervorzuheben ist die Eignung der CMI Bodenspachtelmasse für Stuhlrollen sowie Fußbodenheizungen. Das bedeutet, dass sie sich für den Einsatz in Büros und Wohnräumen ebenso eignet wie für gewerbliche Flächen. Die Spachtelmasse ist nach der Verarbeitung bereits nach 3 bis 4 Stunden begehbar, sodass die Verlegung von Bodenbelägen oder die Fortsetzung der Bauarbeiten ohne lange Wartezeiten möglich sind.</p><p class=\"justify\">Die CMI Bodenspachtelmasse Grau 20 kg überzeugt zudem durch ihre Umweltverträglichkeit und bietet eine exzellente Haftung auf verschiedenen Untergründen. Sie ist chromatarm gemäß der Verordnung (EG) 1907/2006, Anhang XVII (Reach), was für die Sicherheit und Gesundheit des Anwenders und der Umwelt spricht.</p><p class=\"justify\">Mit einem Gewicht von 20 kg bietet die Spachtelmasse eine ausreichende Menge, um auch größere Flächen zu bearbeiten. Die attraktive Preisgestaltung der CMI Bodenspachtelmasse Grau 20 kg spricht zusätzlich für das ausgezeichnete Preis-Leistungs-Verhältnis dieses Produkts. Die zahlreichen positiven Bewertungen und die durchschnittliche Kundenbewertung von 5 Sternen unterstreichen die hohe Zufriedenheit der Anwender.</p><p class=\"justify\">Zusammenfassend ist die CMI Bodenspachtelmasse Grau 20 kg eine hervorragende Option für alle, die eine zuverlässige, umweltfreundliche und leicht zu verarbeitende Spachtelmasse für den Innenbereich suchen. Mit ihrer hohen Qualität und ihrem sensationellen Preis-Leistungs-Verhältnis sind anspruchsvolle Heimwerker und Profis gleichermaßen gut bedient.</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "8350597",
-        "seo": {
-          "texts": [
-            {
-              "title": "Weckman Trapezblech Stahl 776 mm x 1200 mm mit 0,4 mm Stärke Antharzit",
-              "text": "<p class=\"justify\">Das Weckman Trapezblech Stahl 776 mm x 1200 mm mit 0,4 mm Stärke Antharzit (SKU: 8350597) ist ein hochwertiges und stabiles Dachblech in der Kategorie Dachbleche. Die Marke Weckman ist bekannt für ihre qualitativ hochwertigen Produkte und dieses Trapezblech ist keine Ausnahme. Mit seiner Größe von 776 mm x 1200 mm und einer Stärke von 0,4 mm bietet es eine hohe Stabilität und Langlebigkeit für verschiedenste Anwendungsbereiche.</p><p class=\"justify\">Dieses Trapezblech eignet sich perfekt für Carports, Unterstände, Holzlager, Garten- und Gerätehäuser usw. Die antharzitfarbene Oberfläche verleiht Ihrem Projekt nicht nur Stabilität, sondern auch eine ansprechende Optik. Die Profilform des Weckman Trapezblechs sorgt für eine hohe Stabilität und das handliche MINI Format macht den Transport und das Verlegen des Blechs einfach und unkompliziert, selbst für eine Person.</p><p class=\"justify\">Die GTIN-13 Nummer für dieses Produkt ist 4260388280371. In den Kategorien Startseite, Bauen, Baustoffe, Bedachungen & Dachrinnen und Dachbleche finden Sie weitere hochwertige Produkte, die für Ihr Bauprojekt von Nutzen sein können. Mit 171 Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen können Sie sicher sein, dass das Weckman Trapezblech Stahl 776 mm x 1200 mm mit 0,4 mm Stärke Antharzit Ihren Erwartungen entsprechen wird. Entdecken Sie noch heute dieses hervorragende Produkt für Ihr Bauvorhaben!</p>"
-            }
-          ]
-        }
-      },
-      {
-        "sku": "6308365",
-        "seo": {
-          "texts": [
-            {
-              "title": "EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert: Der ideale Mauerstein für Ihren Garten",
-              "text": "<p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert ist ein vielseitiger und stilvoller Mauerstein, der sich perfekt für diverse Gartenprojekte eignet. Seine modernen und geradlinigen Designmerkmale passen hervorragend in jeden Garten – ob als Gartenmauer, Beeteinfassung, Abgrenzung oder zum Hangabfang. Die Maße dieses Mauersteins betragen dabei T x B x H: 30 cm x 22,5 cm x 12 cm.</p><p class=\"justify\">Hergestellt wurde dieser exzellente Mauerstein von der renommierten Marke EHL, die für ihre qualitativ hochwertigen Produkte bekannt ist. Der Grau-Anthrazit-nuancierte Farbton verleiht dem Mauerstein eine zeitlose Eleganz, die Ihren Garten zeitgemäß und modern wirken lässt. Zudem harmoniert der trendige Farbton perfekt mit anderen Baustoffen und Gartenelementen.</p><p class=\"justify\">Das Besondere am EHL Maxi-Mauerstein Anzio liegt in seiner soliden Breite, die fast jedes Gartenprojekt ermöglicht. So kann dieser Mauerstein sowohl bei kleinen als auch großen Bauvorhaben eingesetzt werden, ohne dabei an Stabilität und Attraktivität zu verlieren. Ermöglicht wird dies durch die robuste Bauweise des Mauersteins. Die SKU-Nummer 6308365 und die GTIN13-Nummer 4036163520891 gewährleisten die Authentizität und Qualität dieses Produkts.</p><p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert gehört zur Kategorie der Mauersteine und ist ein Produkt, das in den Bereichen Bauen, Baustoffe sowie Steine & Schüttgüter eingeordnet wird. Die hohe Kundenzufriedenheit zeigt sich nicht zuletzt in einer beeindruckenden Anzahl von 71 Kundenbewertungen und einer 5-Sterne-Bewertung. Der Preis von 5,79 Euro ist angesichts der hohen Qualität und vielfältigen Einsatzmöglichkeiten als angemessen zu bewerten.</p>"
-            }
-          ]
-        }
-      }
-    ]
-  },
-  "categorySeo": {
-    "defaultTitle": "$KATEGORIE - einfach günstig bestellen",
-    "defaultMetaDescription": "Hochwertige Produkte zum Thema $KATEGORIE | Finden Sie die besten Baustoffe für Ihr Bauvorhaben bei uns! | Bequem von zu Hause bestellen!",
-    "defaultRobots": "index, follow",
-    "categories": [
-      {
-        "key": "sporthosen",
-        "slug": "sporthosen",
-        "name": "Sporthosen",
-        "seo": {
-          "title": "Sporthosen günstig kaufen",
-          "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
-          "robots": "index, follow",
-          "texts": [
-            {
-              "title": "Title of a SEO Text for sporthosen",
-              "text": "Text of a SEO Text for sporthosen"
+                "sku": "5637909794",
+                "name": "Ortovox PALA PANTS Kletterhose",
+                "seo": {
+                    "title": "Ortovox PALA PANTS Kletterhose günstig kaufen auf $DOMAIN",
+                    "metaDescription": "DESC: Ortovox PALA PANTS Kletterhose von Ortovox günstig kaufen auf $DOMAIN. Testsieger in der Kategorie Softshellhosen.",
+                    "robots": "index, follow"
+                }
             },
             {
-              "title": "New title for sporthosen",
-              "text": "new text for sporthosen"
+                "sku": "2353548",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "CW-Profil 50 mm von Rigips",
+                            "text": "<p class=\"justify\">Das CW-Profil 50 mm von Rigips ist ein hochwertiges Produkt aus dem Bereich Ständerwerk und Trockenausbau. Es eignet sich hervorragend für die Montage von Metallständer-Trennwänden in Verbindung mit UW-Profilen. Als Teil des vielfältigen Rigips-Sortiments können Sie sich bei diesem Produkt auf hohe Qualität und Langlebigkeit verlassen.</p><p class=\"justify\">Das CW-Profil 50 mm ist ideal für nichttragende Wände im Innenbereich und kann bei Trennwänden einen Feuerschutz bis F 90 bieten. Die Anwendungsbereiche des Profils sind vielfältig und reichen von Metallkonstruktionen für Vorwandinstallationen über Installationswände und Vorsatzschalen bis hin zu Drempeln. Einfach- und Doppelständerwerke können mit diesem CW-Profil ebenfalls realisiert werden.</p><p class=\"justify\">Die Maße des Rigips CW-Profils betragen 50 mm, wobei es in verschiedenen Längen erhältlich ist, um Ihren individuellen Bedürfnissen und Anforderungen gerecht zu werden. Mit einer hohen Anzahl an positiven Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen zeigt sich, dass dieses Produkt den Anforderungen der Kunden entspricht und bei zahlreichen Projekten erfolgreich eingesetzt wurde.</p><p class=\"justify\">Als Teil der Produktkategorie Baustoffe und Bauen punktet das Rigips CW-Profil 50 mm mit einem attraktiven Preis und einer großen Verfügbarkeit. Bei einem Preis von 7,25 Euro bietet es ein hervorragendes Preis-Leistungs-Verhältnis. Ob für Heimwerker oder Profis, das Rigips CW-Profil 50 mm bietet Ihnen alles, was Sie für ein erfolgreiches Bauprojekt benötigen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6494447",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Qboard Bauplatte 1200 mm x 600 mm x 10 mm - Die perfekte Lösung für Trockenausbau und Renovierung",
+                            "text": "<p class=\"justify\">Qboard ist eine renommierte Marke, die sich auf die Herstellung von hochwertigen Bau- und Fliesenlegerplatten spezialisiert hat. Mit der Qboard Bauplatte 1200 mm x 600 mm x 10 mm erhalten Sie ein vielseitiges und langlebiges Produkt, das sich ideal für Trockenausbau und Renovierung von Wand- und Bodenflächen eignet. Die Bauplatte ist wärmedämmend, wasserfest und leicht zu verarbeiten, was sie zum perfekten Partner für den kreativen Innenausbau macht.</p><p class=\"justify\">Die Qboard Bauplatte zeichnet sich durch ihre erstklassige Funktionalität und ansprechendes Design aus. Sie ist sehr leicht und dennoch stabil und widerstandsfähig, sodass sie auch für hochbeanspruchte Bereiche wie Badezimmer oder Küchen geeignet ist. Die wärmedämmenden Eigenschaften sorgen für ein angenehmes Raumklima und helfen, Energiekosten zu sparen. Darüber hinaus sind die Bauplatten schnell und unkompliziert zu verarbeiten – ein großer Vorteil für Heimwerker und Profis gleichermaßen.</p><p class=\"justify\">Die einfache Verarbeitung der Qboard Bauplatte 1200 mm x 600 mm x 10 mm ermöglicht die Montage sowohl auf Massiv- als auch auf Trockenbauwänden. Durch die Abmessungen können im nötigen Fall Platten zugeschnitten, gereiht oder passgenau geklebt werden. Ihre Wasserfestigkeit macht sie zur optimalen Wahl für Feuchträume wie Bäder und Küchen, denn diese verhindert das Eindringen von Feuchtigkeit und verhindert so die Bildung von Schimmel und anderen Feuchtigkeitsschäden.</p><p class=\"justify\">Die Qboard Bauplatte 1200 mm x 600 mm x 10 mm erhielt zahlreiche positive Bewertungen und eine hohe Sternebewertung von zufriedenen Kunden. Nutzen auch Sie die Vorteile und Qualität dieser Bauplatten für Ihre Renovierung oder Trockenausbau-Projekte. Mit Qboard treffen Sie eine Entscheidung für Langlebigkeit, Funktionalität und Ästhetik.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2197838",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Bims Vollstein V4 5 DF 30 cm x 24 cm x 11,5 cm von Sonstige",
+                            "text": "<p class=\"justify\">Der Bims Vollstein V4 5 DF 30 cm x 24 cm x 11,5 cm der Marke Sonstige ist ein idealer Baustoff für nichttragende Wände im Innenbereich. Dank seiner hervorragenden Wärmeleitfähigkeit und leichten Verarbeitung ist er besonders gut für Bauvorhaben geeignet, bei denen eine hohe Energieeffizienz und Komfort im Vordergrund stehen. Die Kombination aus Langlebigkeit, Festigkeit und Umweltfreundlichkeit macht diesen Bimsstein zu einer idealen Wahl für nachhaltige Bauprojekte.</p><p class=\"justify\">Bimssteine sind als baubiologisch unbedenklich einzustufen, da sie ein natürliches Material sind, das keine Schadstoffe abgibt und sich problemlos recyclen lässt. Die Verwendung von Bimssteinen ist nicht nur umweltfreundlich, sondern bietet auch Vorteile bei der Verarbeitung. Sie sind leicht, einfach zu schneiden und haben eine gute Haftung an Mörtel. Dadurch lassen sie sich schnell und einfach verarbeiten, was Zeit und Geld spart.</p><p class=\"justify\">Dieser Bims Vollstein ist ideal für den Einsatz in Mauerwerksarbeiten und eignet sich besonders für den Bereich Steine & Schüttgüter. Die Kategorie Mauersteine umfasst eine Vielzahl verschiedener Produkte für verschiedene Anwendungen, dieses Produkt sticht durch sein optimales Preis-Leistungs-Verhältnis hervor und ist damit eine ausgezeichnete Wahl für Ihr nächstes Bauvorhaben.</p><p class=\"justify\">Die Abmessungen von 30 cm x 24 cm x 11,5 cm bieten Flexibilität bei der Gestaltung Ihres Bauprojekts und gewährleisten gleichzeitig, dass der fertige Bims Vollstein sowohl stabil als auch langlebig ist. Die GTIN13-Nummern 4010499312344, 4251234601945 und 4010499312092 bestätigen die Qualität und Zuverlässigkeit dieses Baustoffs.</p><p class=\"justify\">Kurz gesagt, der Bims Vollstein V4 5 DF 30 cm x 24 cm x 11,5 cm von Sonstige ist eine hervorragende Option für die Erstellung von nichttragenden Wänden im Innenbereich. Seine Robustheit, Umweltfreundlichkeit und einfache Handhabung gewährleisten ein erfolgreiches, nachhaltiges Bauprojekt.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2971018",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Sonstige Pfosten- und Fundamentbeton PF25",
+                            "text": "<p class=\"justify\">Der Sonstige Pfosten- und Fundamentbeton PF25 ist ein hochwertiger, zementgebundener Werktrockenmörtel, der für verschiedenste Anwendungen im Bereich des Bauens und der Baustoffe geeignet ist. Mit der Artikelnummer 2971018 und der GTIN 4005813947050 lässt sich dieses Produkt eindeutig identifizieren und ist in der Kategorie Trockenmörtel zu finden.</p><p class=\"justify\">Der Pfosten- und Fundamentbeton PF25 eignet sich hervorragend für das Herstellen von kleineren Punkt-, Streifen- und Flächenfundamenten, Randsteinfundamenten und Betonsockeln. Des Weiteren kann er für Befestigungsarbeiten und Betonreparaturen eingesetzt werden. Dieser Beton zeichnet sich durch seine Frostbeständigkeit und leichte Verarbeitung aus, was ihn zu einem idealen Baustoff für zahlreiche Projekte macht.</p><p class=\"justify\">Dank seiner hohen Belastbarkeit eignet sich der Pfosten- und Fundamentbeton PF25 für den Einsatz unter anspruchsvollen Bedingungen und gewährleistet eine langfristige Stabilität der erstellten Bauwerke. Mit einem Preis von 3,49 Euro pro Einheit ist dieser Beton eine kosteneffiziente Möglichkeit, professionelle Ergebnisse zu erzielen.</p><p class=\"justify\">Der Sonstige Pfosten- und Fundamentbeton PF25 hat eine hervorragende Kundenbewertung von 5 Sternen und 218 Rezensionen erhalten, was seine Qualität und Zuverlässigkeit untermauert. Vertrauen auch Sie auf diesen bewährten Baustoff und setzen Sie ihn für Ihre Bauprojekte ein.</p><p class=\"justify\">In unseren verschiedenen Kategorien wie Startseite, Bauen, Baustoffe, Putz, Mörtel & Zement und Trockenmörtel bieten wir weitere hochwertige Produkte an, die Sie bei der Planung und Durchführung Ihrer Bauprojekte unterstützen. Entdecken Sie unser vielseitiges Angebot und finden Sie den passenden Baustoff für Ihre individuellen Anforderungen!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "7369374",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "VeroBoard® Rapid Leichtbauplatte 240 x 120 cm - Ideale Lösung für Trockenbau",
+                            "text": "<p class=\"justify\">Die VeroBoard® Rapid Leichtbauplatte 240 x 120 cm ist die perfekte Wahl für alle, die im Bereich Trockenausbau, Innenausbau und Sanierung tätig sind. Diese innovative Leichtbauplatte, hergestellt von der renommierten Marke VeroBoard® Rapid, bietet zahlreiche Vorteile für eine Vielzahl von Anwendungen. Mit einer Größe von 240 x 120 cm und einem Gewicht von nur 5 kg/m² ist sie leicht, einfach zu handhaben und ideal für über-Kopfarbeiten an Decken oder Dachgeschossausbau geeignet.</p><p class=\"justify\">Die VeroBoard® Rapid Leichtbauplatte besteht zu 96 % aus recyceltem Altglas (Blähglas), was sie zu einer umweltfreundlichen und nachhaltigen Option für Bau- und Fliesenlegerplatten macht. Zudem ist die Platte schadstofffrei und feuchteregulierend, was für ein angenehmes Raumklima sorgt und die Oberflächentemperatur von kühlen Außenwänden erhöht. Damit ist sie auch für Feuchträume wie Bäder bestens geeignet.</p><p class=\"justify\">Die Montage der VeroBoard® Rapid Leichtbauplatte ist einfach und unkompliziert. Sie kann auf Holz- oder Metallunterkonstruktionen montiert oder direkt auf Mauerwerk verklebt werden. Fugen werden mit einem selbstklebenden Fugenband abgedeckt. Anschließend kann nahezu jede Oberfläche nach individuellen Wünschen aufgebracht werden, beispielsweise Putz, Fliesen oder Tapete.</p><p class=\"justify\">Mit der GTIN13: 4260400210027 weist die VeroBoard® Rapid Leichtbauplatte eine hohe Qualität auf und hat bereits zahlreiche zufriedene Kunden im Bereich Trockenausbau überzeugt. Die durchschnittliche Bewertung von 5 Sternen bei 489 Rezensionen spricht für die Zufriedenheit der Kunden und ihre hohe Qualität. Die VeroBoard® Rapid Leichtbauplatte eignet sich perfekt für vielfältige Anwendungen und ist somit eine hervorragende Wahl für alle, die Wert auf Qualität, Nachhaltigkeit und Effizienz legen.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2197820",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Bims Vollstein V4 3 DF 24 cm x 17,5 cm x 11,3 cm",
+                            "text": "<p class=\"justify\">Der Bims Vollstein V4 3 DF ist ein hochwertiger Mauerstein der Marke Sonstige und eignet sich hervorragend für nichttragende Wände im Innenbereich. Die Maße des Steins betragen 24 cm x 17,5 cm x 11,3 cm und erfüllen damit die Anforderungen für stabile und langlebige Baukonstruktionen. Eine seiner herausragenden Eigenschaften ist die gute Wärmeleitfähigkeit, die zu einem verbesserten Raumklima beiträgt.</p><p class=\"justify\">Die leichte Verarbeitung und das biologisch unbedenkliche Material sind weitere Vorteile dieses Bimssteins. Er ist sowohl für Profis als auch für Heimwerker einfach zu handhaben und ermöglicht ein zügiges und effizientes Arbeiten. Durch seine Eigenschaften trägt der Bims Vollstein zur Schaffung eines angenehmen und gesunden Wohnraums bei.</p><p class=\"justify\">Die Anlieferung des Bims Vollsteins erfolgt in der Regel durch einen LKW mit Mitnahmestapler oder Ladebordwand. Bitte stellen Sie sicher, dass die Zufahrtsmöglichkeit für Sattelzüge gegeben ist und dass der Empfänger oder eine beauftragte Person bei der Anlieferung anwesend ist, um eine zügige Entladung zu ermöglichen. Beachten Sie, dass die Entladung auf einem ebenen, festen Untergrund frei Bordsteinkante erfolgt. Es erfolgt keine Inselbelieferung.</p><p class=\"justify\">Für das Bims Vollstein V4 3 DF 24 cm x 17,5 cm x 11,3 cm können Sie von einer hohen Kundenzufriedenheit ausgehen. Mit einer durchschnittlichen Bewertung von 4 Sternen und über 462 Rezensionen sprechen die Zahlen für sich. Vertrauen Sie auf die Qualität von Sonstige Mauersteinen und erreichen Sie mit dem Bims Vollstein V4 3 DF hervorragende Ergebnisse bei Ihren Bauvorhaben.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8613838",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Bodenausgleichsmasse Die Dünne 1 - 10 mm von Sonstige",
+                            "text": "<p class=\"justify\">Die Bodenausgleichsmasse Die Dünne 1 - 10 mm ist ein hochwertiges Produkt der Marke Sonstige, das sich ideal zum Glätten, Spachteln, Ausgleichen und Nivellieren von Unebenheiten eignet. Mit einer GTIN13 von 8022452365775 ist diese Ausgleichsmasse eine hervorragende Wahl für Projekte im Bereich Bauen, Baustoffe, Putz, Mörtel und Zement.</p><p class=\"justify\">Dieses Produkt ist in der Kategorie \\\"Ausgleichsmassen\\\" einsetzbar und kann in einer Schichtdicke von 1 bis 10 mm aufgetragen werden. Die schnelle Aushärtung und die einfache Verarbeitung sorgen für zufriedenstellende Ergebnisse bei unterschiedlichsten Anwendungsbereichen. Die leichte Handhabung ermöglicht Anwendern ein effizientes und sauberes Arbeiten ganz ohne Fachkenntnisse.</p><p class=\"justify\">Die Bodenausgleichsmasse Die Dünne 1 - 10 mm wird in einem praktischen, wiederverschließbaren Gebinde geliefert, das die Lagerung und den Transport erleichtert. Die hohe Qualität des Produkts wird durch zahlreiche positive Bewertungen – 303 Rezensionen bei einem durchschnittlichen Nutzer-Rating von 5 Sternen – bestätigt.</p><p class=\"justify\">Egal, ob Sie Ihrem Zuhause einen frischen Look verpassen möchten oder bei einem Neubauprojekt eine ebene und glatte Bodenfläche benötigen – die Bodenausgleichsmasse Die Dünne 1 - 10 mm ist die perfekte Lösung für Ihre Anforderungen. Entscheiden Sie sich für dieses Produkt und profitieren Sie von der hohen Qualität und der Zuverlässigkeit der Marke Sonstige. Ganz gleich, ob Sie ein Profi oder ein Heimwerker sind, die Bodenausgleichsmasse Die Dünne 1 - 10 mm ist die ideale Wahl für jeden Bauherrn, der Wert auf ein hervorragendes Preis-Leistungs-Verhältnis legt.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "2197846",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Bims Bauplatte V2 8 DF 49,3 cm x 24 cm x 11,5 cm von Sonstige",
+                            "text": "<p class=\"justify\">Die Bims Bauplatte V2 8 DF 49,3 cm x 24 cm x 11,5 cm ist ein hochwertiger Mauerbaustoff der Marke Sonstige, der sich ideal für die Errichtung von robusten Wänden eignet. Dieser leichte und langlebige Baustoff bietet ein vielseitiges Einsatzspektrum und ist eine erstklassige Wahl für effiziente und umweltverträgliche Bauvorhaben. Die hohe Wärmedämmung und die gute Wärmeleitfähigkeit zeichnen diese Bauplatte besonders aus.</p><p class=\"justify\">Bims ist ein natürliches, baubiologisch unbedenkliches Baumaterial, das sich leicht verarbeiten lässt. Es ermöglicht eine schnelle und effiziente Verarbeitung und sorgt zugleich für eine angenehme Raumtemperatur. Die Bims Bauplatte V2 8 DF hat eine Größe von 49,3 cm x 24 cm x 11,5 cm und ist in der Kategorie Mauersteine zu finden. Sie gehört zu den Baustoffen, die im Bereich von Steinen und Schüttgütern zum Einsatz kommen.</p><p class=\"justify\">Die Platte wird mit der GTIN13 4010499312146, 4010499312351, 4251234601891 gekennzeichnet und hat die SKU-Nummer 2197846. Sie verfügt über ein ansprechendes Design und ist mit einer langlebigen Oberfläche ausgestattet. Mit einer Breite von 1500 mm, einer Höhe von 1500 mm und einer Gewicht von 2,79 kg ist die Bims Bauplatte V2 8 DF leicht, kompakt und einfach zu handhaben.</p><p class=\"justify\">Mit einer durchschnittlichen Kundenbewertung von 4 Sternen und insgesamt 318 Rezensionen hat diese Bauplatte bewiesen, dass sie ein ausgezeichnetes Preis-Leistungs-Verhältnis bietet und den hohen Qualitätsanforderungen der Kunden entspricht. Entdecken Sie die vielseitigen Einsatzmöglichkeiten der Bims Bauplatte V2 8 DF 49,3 cm x 24 cm x 11,5 cm und setzen Sie neue Maßstäbe bei Ihren Bauprojekten.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6307904",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert T x B x H: 60 cm x 22,5 cm x 12 cm",
+                            "text": "<p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert bringt ein modernes und klassisches Design in Ihren Garten. Mit seinen Maßen von 60 cm Tiefe, 22,5 cm Breite und 12 cm Höhe ist dieser Mauerstein vielseitig einsetzbar und eignet sich hervorragend für verschiedene Gartenprojekte wie Gartenmauern, Beeteinfassungen, Abgrenzungen oder Hangabfang. Das ansprechende Design in Grau-Anthrazit-nuanciert passt zu jeder Gartengestaltung und verleiht Ihrem Außenbereich eine zeitlose und elegante Optik.</p><p class=\"justify\">Die Marke EHL steht für Qualität und Langlebigkeit. Dieser Mauerstein ist aus hochwertigen Materialien gefertigt und bietet eine solide Breite, die für nahezu jedes Gartenprojekt geeignet ist. Zudem verfügt der EHL Maxi-Mauerstein Anzio über eine geradlinige Optik, wie auch auf den Produktbildern zu sehen ist. Mit einer Bewertung von 4 Sternen und über 455 Rezensionen können Sie sicher sein, dass Sie ein hochwertiges und zuverlässiges Produkt erhalten.</p><p class=\"justify\">Um den EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert perfekt in Ihren Garten zu integrieren, können Sie ihn in Kombination mit anderen Steinen und Schüttgütern verwenden, um ein harmonisches Gesamtbild zu erreichen. Gestalten Sie beispielsweise eine attraktive Gartenmauer oder eine ansprechende Beeteinfassung, die durch das nuancierte Farbspiel in Grau-Anthrazit immer wieder neue Akzente setzt. Egal für welches Projekt Sie die Mauersteine nutzen, sie werden mit Sicherheit Ihr Eigenheim und Ihren Garten aufwerten.</p><p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert T x B x H: 60 cm x 22,5 cm x 12 cm ist eine ausgezeichnete Wahl für Ihr nächstes Gartenprojekt. Investieren Sie in ein Produkt, das nicht nur optisch ansprechend ist, sondern auch Langlebigkeit bietet. Schaffen Sie einen einzigartigen Außenbereich, der Ihre Gäste beeindrucken wird und Ihnen viele Jahre Freude bereitet.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "9462581",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "CMI Bodenspachtelmasse Grau 20 kg - Perfekt für Ihren Innenbereich",
+                            "text": "<p class=\"justify\">Die CMI Bodenspachtelmasse Grau 20 kg ist eine hochwertige, selbstverlaufende Spachtelmasse, die sich hervorragend für den Einsatz im Innenbereich eignet. Sie gehört zur Kategorie der Ausgleichsmassen und ist sowohl für Profis als auch für Heimwerker geeignet. Das Produkt aus dem renommierten Hause CMI ist für Schichtdicken von 1 mm bis 10 mm konzipiert. Dadurch können selbst kleinste Unebenheiten problemlos ausgeglichen werden.</p><p class=\"justify\">Besonders hervorzuheben ist die Eignung der CMI Bodenspachtelmasse für Stuhlrollen sowie Fußbodenheizungen. Das bedeutet, dass sie sich für den Einsatz in Büros und Wohnräumen ebenso eignet wie für gewerbliche Flächen. Die Spachtelmasse ist nach der Verarbeitung bereits nach 3 bis 4 Stunden begehbar, sodass die Verlegung von Bodenbelägen oder die Fortsetzung der Bauarbeiten ohne lange Wartezeiten möglich sind.</p><p class=\"justify\">Die CMI Bodenspachtelmasse Grau 20 kg überzeugt zudem durch ihre Umweltverträglichkeit und bietet eine exzellente Haftung auf verschiedenen Untergründen. Sie ist chromatarm gemäß der Verordnung (EG) 1907/2006, Anhang XVII (Reach), was für die Sicherheit und Gesundheit des Anwenders und der Umwelt spricht.</p><p class=\"justify\">Mit einem Gewicht von 20 kg bietet die Spachtelmasse eine ausreichende Menge, um auch größere Flächen zu bearbeiten. Die attraktive Preisgestaltung der CMI Bodenspachtelmasse Grau 20 kg spricht zusätzlich für das ausgezeichnete Preis-Leistungs-Verhältnis dieses Produkts. Die zahlreichen positiven Bewertungen und die durchschnittliche Kundenbewertung von 5 Sternen unterstreichen die hohe Zufriedenheit der Anwender.</p><p class=\"justify\">Zusammenfassend ist die CMI Bodenspachtelmasse Grau 20 kg eine hervorragende Option für alle, die eine zuverlässige, umweltfreundliche und leicht zu verarbeitende Spachtelmasse für den Innenbereich suchen. Mit ihrer hohen Qualität und ihrem sensationellen Preis-Leistungs-Verhältnis sind anspruchsvolle Heimwerker und Profis gleichermaßen gut bedient.</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "8350597",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "Weckman Trapezblech Stahl 776 mm x 1200 mm mit 0,4 mm Stärke Antharzit",
+                            "text": "<p class=\"justify\">Das Weckman Trapezblech Stahl 776 mm x 1200 mm mit 0,4 mm Stärke Antharzit (SKU: 8350597) ist ein hochwertiges und stabiles Dachblech in der Kategorie Dachbleche. Die Marke Weckman ist bekannt für ihre qualitativ hochwertigen Produkte und dieses Trapezblech ist keine Ausnahme. Mit seiner Größe von 776 mm x 1200 mm und einer Stärke von 0,4 mm bietet es eine hohe Stabilität und Langlebigkeit für verschiedenste Anwendungsbereiche.</p><p class=\"justify\">Dieses Trapezblech eignet sich perfekt für Carports, Unterstände, Holzlager, Garten- und Gerätehäuser usw. Die antharzitfarbene Oberfläche verleiht Ihrem Projekt nicht nur Stabilität, sondern auch eine ansprechende Optik. Die Profilform des Weckman Trapezblechs sorgt für eine hohe Stabilität und das handliche MINI Format macht den Transport und das Verlegen des Blechs einfach und unkompliziert, selbst für eine Person.</p><p class=\"justify\">Die GTIN-13 Nummer für dieses Produkt ist 4260388280371. In den Kategorien Startseite, Bauen, Baustoffe, Bedachungen & Dachrinnen und Dachbleche finden Sie weitere hochwertige Produkte, die für Ihr Bauprojekt von Nutzen sein können. Mit 171 Bewertungen und einer durchschnittlichen Bewertung von 4 Sternen können Sie sicher sein, dass das Weckman Trapezblech Stahl 776 mm x 1200 mm mit 0,4 mm Stärke Antharzit Ihren Erwartungen entsprechen wird. Entdecken Sie noch heute dieses hervorragende Produkt für Ihr Bauvorhaben!</p>"
+                        }
+                    ]
+                }
+            },
+            {
+                "sku": "6308365",
+                "seo": {
+                    "texts": [
+                        {
+                            "title": "EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert: Der ideale Mauerstein für Ihren Garten",
+                            "text": "<p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert ist ein vielseitiger und stilvoller Mauerstein, der sich perfekt für diverse Gartenprojekte eignet. Seine modernen und geradlinigen Designmerkmale passen hervorragend in jeden Garten – ob als Gartenmauer, Beeteinfassung, Abgrenzung oder zum Hangabfang. Die Maße dieses Mauersteins betragen dabei T x B x H: 30 cm x 22,5 cm x 12 cm.</p><p class=\"justify\">Hergestellt wurde dieser exzellente Mauerstein von der renommierten Marke EHL, die für ihre qualitativ hochwertigen Produkte bekannt ist. Der Grau-Anthrazit-nuancierte Farbton verleiht dem Mauerstein eine zeitlose Eleganz, die Ihren Garten zeitgemäß und modern wirken lässt. Zudem harmoniert der trendige Farbton perfekt mit anderen Baustoffen und Gartenelementen.</p><p class=\"justify\">Das Besondere am EHL Maxi-Mauerstein Anzio liegt in seiner soliden Breite, die fast jedes Gartenprojekt ermöglicht. So kann dieser Mauerstein sowohl bei kleinen als auch großen Bauvorhaben eingesetzt werden, ohne dabei an Stabilität und Attraktivität zu verlieren. Ermöglicht wird dies durch die robuste Bauweise des Mauersteins. Die SKU-Nummer 6308365 und die GTIN13-Nummer 4036163520891 gewährleisten die Authentizität und Qualität dieses Produkts.</p><p class=\"justify\">Der EHL Maxi-Mauerstein Anzio Grau-Anthrazit-nuanciert gehört zur Kategorie der Mauersteine und ist ein Produkt, das in den Bereichen Bauen, Baustoffe sowie Steine & Schüttgüter eingeordnet wird. Die hohe Kundenzufriedenheit zeigt sich nicht zuletzt in einer beeindruckenden Anzahl von 71 Kundenbewertungen und einer 5-Sterne-Bewertung. Der Preis von 5,79 Euro ist angesichts der hohen Qualität und vielfältigen Einsatzmöglichkeiten als angemessen zu bewerten.</p>"
+                        }
+                    ]
+                }
             }
-          ]
+        ]
+    },
+    "categorySeo": {
+        "defaultTitle": "$KATEGORIE - einfach günstig bestellen",
+        "defaultMetaDescription": "Hochwertige Produkte zum Thema $KATEGORIE | Finden Sie die besten Baustoffe für Ihr Bauvorhaben bei uns! | Bequem von zu Hause bestellen!",
+        "defaultRobots": "index, follow",
+        "categories": [
+            {
+                "key": "sporthosen",
+                "slug": "sporthosen",
+                "name": "Sporthosen",
+                "seo": {
+                    "title": "Sporthosen günstig kaufen",
+                    "metaDescription": "Alle Sporthosen im Überblick. Produkte und Testsieger. Finde die richtige Sporthose mit Best-Preis-Garantie.",
+                    "robots": "index, follow",
+                    "texts": [
+                        {
+                            "title": "Title of a SEO Text for sporthosen",
+                            "text": "Text of a SEO Text for sporthosen"
+                        },
+                        {
+                            "title": "New title for sporthosen",
+                            "text": "new text for sporthosen"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "brandSeo": {
+        "defaultTitle": "$HERSTELLER - Top Produkte zu Top Preisen ",
+        "defaultMetaDescription": "$HERSTELLER ist führender Hersteller von Baustoffen, wenn es um $KATEGORIE geht | Hochwertige Produkte für Ihr Bauvorhaben",
+        "defaultRobots": "index, follow",
+        "brands": [
+            {
+                "key": "palm",
+                "name": "Palm",
+                "seo": {
+                    "title": "Produkte von Palm günstig kaufen",
+                    "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
+                    "robots": "index, follow"
+                }
+            }
+        ]
+    },
+    "navigationLinks": [
+        {
+            "title": "Start",
+            "linkTo": "/",
+            "linkTitle": "Baustoffe",
+            "publish": true
+        },
+        {
+            "title": "Shop",
+            "linkTo": "/shop/",
+            "linkTitle": "Baustoffe Shop",
+            "publish": true
+        },
+        {
+            "title": "Marken",
+            "linkTo": "/marken/",
+            "linkTitle": "Baustoffe Marken",
+            "publish": true
+        },
+        {
+            "title": "Kontakt",
+            "linkTo": "/kontakt/",
+            "linkTitle": "Kontakt",
+            "publish": false
         }
-      }
-    ]
-  },
-  "brandSeo": {
-    "defaultTitle": "$HERSTELLER - Top Produkte zu Top Preisen ",
-    "defaultMetaDescription": "$HERSTELLER ist führender Hersteller von Baustoffen, wenn es um $KATEGORIE geht | Hochwertige Produkte für Ihr Bauvorhaben",
-    "defaultRobots": "index, follow",
-    "brands": [
-      {
-        "key": "palm",
-        "name": "Palm",
-        "seo": {
-          "title": "Produkte von Palm günstig kaufen",
-          "metaDescription": "Alle Produkte von Palm im Überblick. Produkte und Testsieger. Der Hersteller für Outdoor Produkte.",
-          "robots": "index, follow"
-        }
-      }
-    ]
-  },
-  "navigationLinks": [
-    {
-      "title": "Start",
-      "linkTo": "/",
-      "linkTitle": "Baustoffe",
-      "publish": true
+    ],
+    "ai": {
+        "enabled": true,
+        "engine": 1
     },
-    {
-      "title": "Shop",
-      "linkTo": "/shop/",
-      "linkTitle": "Baustoffe Shop",
-      "publish": true
+    "affiliate": {
+        "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
     },
-    {
-      "title": "Marken",
-      "linkTo": "/marken/",
-      "linkTitle": "Baustoffe Marken",
-      "publish": true
-    },
-    {
-      "title": "Kontakt",
-      "linkTo": "/kontakt/",
-      "linkTitle": "Kontakt",
-      "publish": false
+    "snipcart": {
+        "apiKeys": {
+            "live": "MWFmYmZjYzEtNzZhNi00NzNjLWJhYTQtMTFmYWUzZDIyYTEzNjM4MTk1NzM0NTM3MDM2Nzgy",
+            "test": "OTQzZmQ1NzAtYTNlNy00NjMxLTkxMjUtZGRiZmQwMjljNjY3NjM4MTk1NzM0NTM3MDM2Nzgy"
+        },
+        "factor": 1.1
     }
-  ],
-  "ai": {
-    "enabled": true,
-    "engine": 1
-  },
-  "affiliate": {
-    "defaultLink": "https://www.amazon.de/s?k=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer&language=de_DE&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2HY8JX8TYKMEK&linkCode=ll2&linkId=4103e81163a8fabcb0fb5d086df92083&sprefix=Weber+Umr%C3%BCst-Set+Gasflasche+f%C3%BCr+Performer%2Caps%2C115&tag=surrealnetwor-21&ref=as_li_ss_tl"
-  }
 }
